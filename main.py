@@ -1,16 +1,44 @@
-# This is a sample Python script.
+from core.config import ShariaCryptoCheckerAPP
 
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+from routers.checks_router import router as checks_router
+from resources.manager.manager_service import ManagerService
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+app = ShariaCryptoCheckerAPP
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+app.include_router(checks_router, prefix="/sharia")
+
+"""
+Program from start to finish
+
+Loads module_service -> loads module_manager
+
+-> module manager
+    Loads all modules
+    inside each module:
+        [MODULE.START]
+        check IF active. 
+        if active:
+            get last checkpoint (previous state) IF APPLICABLE
+            gets deactivated?
+                save state (if necessary)
+            
+-> api
+    module_manager_route
+        want to deactivate a module?
+            run module_manager.deactivate(module)
+                -> updates module._lock (module.deactivate())
+                
+    run specific operation?
+        module.run_one()
+        module.run()
+            consist of multiple run_one´s but takes into account that
+            the module could be deactivated at any time.
+        
+    
+"""
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run(app, host="localhost", port=8080)
