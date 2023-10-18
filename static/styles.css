@@ -1,0 +1,42 @@
+/* Reset some default styles */
+body,
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #2196F3;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+.settings-box {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+    background-color: #f2f2f2;
+}
+
+.settings-box h2 {
+    font-size: 1.2em;
+}
+
+#add-word-button {
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-top: 10px;
+    cursor: pointer;
+}

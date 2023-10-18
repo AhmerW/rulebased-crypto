@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShariaCrypto Interface</title>
+    <link rel="stylesheet" href="{{ url_for('static', path='/styles.css') }}">
+</head>
+
+<body>
+    <header>
+        <h1>Your API Interface</h1>
+    </header>
+    <main>
+        <div class="settings-box">
+            <h2>Settings</h2>
+            <ul id="settings-list">
+                <!-- Data will be populated here using JavaScript -->
+            </ul>
+            <button id="add-word-button">Add New Word</button>
+        </div>
+    </main>
+    <script src="{{ url_for('static', path='/script.js') }}"></script>
+</body>
+
+</html>

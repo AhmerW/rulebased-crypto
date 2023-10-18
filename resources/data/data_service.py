@@ -2,12 +2,16 @@ from typing import Optional, Final
 from datetime import datetime, timedelta
 
 from resources.data.data_models import Checkpoint
-from resources.data.data_repo import DataRepo, DataFiles
+from resources.data.data_repo import DataRepo, DataFiles, get_data_file
 
 
 class CheckpointService:
+    def checkpoint_id(self, prefix, id):
+        # to distinguish between other modules in the same checkpoint files
+        return f"{prefix}_{id}"
+
     async def add_checkpoint(self, checkpoint_id: str, cp: Checkpoint):
-        repo = DataRepo(DataFiles.data_json)
+        repo = DataRepo(DataFiles.checkpoint_json)
         async with repo.file_op() as f:
             data = await repo.get_from_datafile(f)
             data[checkpoint_id] = cp.model_dump()
@@ -32,13 +36,14 @@ class CheckpointService:
             return checkpoint
 
     @staticmethod
-    def is_time(dt: datetime) -> int:
-        return datetime.now() >= dt
+    def is_time(dt: datetime, interval: int = 0) -> int:
+        return (dt + timedelta(seconds=interval)) >= dt.now()
 
     @staticmethod
-    def get_sec_diff(dt, dt2=None) -> int:
+    def get_sec_diff(dt, dt2=None, interval: int = 0) -> int:
         dt2 = dt2 if dt2 else datetime.now()
-        return (dt2 - dt).seconds
+        dt += timedelta(seconds=interval)
+        return (dt - dt2).seconds
 
     @staticmethod
     def dt_now_plus(self, *args, **kwargs):
@@ -47,7 +52,23 @@ class CheckpointService:
 
 class DataService:
     async def save_data(self, file, data):
-        await DataRepo(file).write_to_datafile(data)
+        return await DataRepo(file).write_to_datafile(data)
+
+    async def get_data(self, file):
+        return await DataRepo(file).get_from_datafile()
+
+    async def update_index(self, file, initial, index, key, value):
+        repo = DataRepo(file)
+        data = await repo.get_from_datafile()  # dict
+        l = data.get(initial, [])  # list
+        if len(l) > index:
+            if isinstance(l[index], dict):  # dict
+                data[initial][index][key] = value
+
+        await repo.write_to_datafile(data)
+
+    async def update(self):
+        pass
 
 
 checkpointService: Final[CheckpointService] = CheckpointService()

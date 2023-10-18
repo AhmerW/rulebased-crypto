@@ -1,7 +1,6 @@
 from os import path
 from contextlib import asynccontextmanager
 
-
 import aiofiles
 import orjson
 
@@ -11,6 +10,11 @@ BASE_DB_PATH = path.join("resources", "data", "db")
 class DataFiles:
     checkpoint_json = path.join(BASE_DB_PATH, "checkpoint.json")
     data_json = path.join(BASE_DB_PATH, "data.json")
+    settings_json = path.join(BASE_DB_PATH, "settings.json")
+
+
+def get_data_file(filename):
+    return path.join(BASE_DB_PATH, f"{filename}.json")
 
 
 class DataRepo:
@@ -34,11 +38,15 @@ class DataRepo:
         async def _read(fo):
             return orjson.loads(await f.read())
 
-        if f is not None:
-            return await _read(f)
+        try:
+            if f is not None:
+                return await _read(f)
 
-        async with aiofiles.open(self.datafile) as f:
-            return await _read(f)
+            async with aiofiles.open(self.datafile) as f:
+                return await _read(f)
+        except FileNotFoundError:
+            await self.write_to_datafile({})
+            return {}
 
     @asynccontextmanager
     async def file_op(self):
