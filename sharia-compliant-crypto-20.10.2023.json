@@ -1,564 +1,596 @@
 {
     "data": [
       {
-        "id": "01coin",
-        "symbol": "zoc",
-        "name": "01coin",
+        "id": "rif-token",
+        "symbol": "rif",
+        "name": "RSK Infrastructure Framework",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 243,
+        "market_cap_usd": "0.095575 USD"
       },
       {
-        "id": "aave-ren-v1",
-        "symbol": "aren",
-        "name": "Aave REN v1",
+        "id": "dock",
+        "symbol": "dock",
+        "name": "Dock",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 312,
+        "market_cap_usd": "0.01499846 USD"
       },
       {
-        "id": "aave-snx",
-        "symbol": "asnx",
-        "name": "Aave SNX",
+        "id": "troy",
+        "symbol": "troy",
+        "name": "TROY",
         "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "aave-snx-v1",
-        "symbol": "asnx",
-        "name": "Aave SNX v1",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "aave-susd",
-        "symbol": "asusd",
-        "name": "Aave SUSD",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "aave-susd-v1",
-        "symbol": "asusd",
-        "name": "Aave SUSD v1",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "aave-tusd",
-        "symbol": "atusd",
-        "name": "Aave TUSD",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "aave-tusd-v1",
-        "symbol": "atusd",
-        "name": "Aave TUSD v1",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "aave-uni",
-        "symbol": "auni",
-        "name": "Aave UNI",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "abey",
-        "symbol": "abey",
-        "name": "Abey",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "aboat-token-2",
-        "symbol": "aboat",
-        "name": "Aboat Token",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "absolute-sync-token",
-        "symbol": "ast",
-        "name": "Absolute Sync",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "abyss-world",
-        "symbol": "awt",
-        "name": "Abyss World",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "acala",
-        "symbol": "aca",
-        "name": "Acala",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "acala-dollar-acala",
-        "symbol": "ausd",
-        "name": "Acala Dollar (Acala)",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "access-protocol",
-        "symbol": "acs",
-        "name": "Access Protocol",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "acent",
-        "symbol": "ace",
-        "name": "Acent",
-        "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 618,
+        "market_cap_usd": "0.00224476 USD"
       },
       {
         "id": "ac-milan-fan-token",
         "symbol": "acm",
         "name": "AC Milan Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 863,
+        "market_cap_usd": "1.78 USD"
       },
       {
-        "id": "agenor",
-        "symbol": "age",
-        "name": "Agenor",
+        "id": "ufc-fan-token",
+        "symbol": "ufc",
+        "name": "UFC Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 896,
+        "market_cap_usd": "0.907783 USD"
       },
       {
-        "id": "age-of-tanks",
-        "symbol": "a.o.t",
-        "name": "Age Of Tanks",
+        "id": "flamengo-fan-token",
+        "symbol": "mengo",
+        "name": "Flamengo Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 998,
+        "market_cap_usd": "0.447974 USD"
       },
       {
-        "id": "alanyaspor-fan-token",
-        "symbol": "ala",
-        "name": "Alanyaspor Fan Token",
+        "id": "trabzonspor-fan-token",
+        "symbol": "tra",
+        "name": "Trabzonspor Fan Token",
         "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "alliance-fan-token",
-        "symbol": "all",
-        "name": "Alliance Fan Token",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "alliance-x-trading",
-        "symbol": "axt",
-        "name": "Alliance X Trading",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "ankaragucu-fan-token",
-        "symbol": "anka",
-        "name": "Ankaragücü Fan Token",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apf-coin",
-        "symbol": "apfc",
-        "name": "APF coin",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "api3",
-        "symbol": "api3",
-        "name": "API3",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apidae",
-        "symbol": "apt",
-        "name": "Apidae",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apiens",
-        "symbol": "apn",
-        "name": "Apiens",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apin-pulse",
-        "symbol": "apc",
-        "name": "Apin Pulse",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apm-coin",
-        "symbol": "apm",
-        "name": "apM Coin",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apollo",
-        "symbol": "apl",
-        "name": "Apollo",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apollo-crypto",
-        "symbol": "apollo",
-        "name": "Apollo Crypto",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apollon-limassol",
-        "symbol": "apl",
-        "name": "Apollon Limassol Fan Token",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apollo-token",
-        "symbol": "apollo",
-        "name": "Apollo Token",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apollox-2",
-        "symbol": "apx",
-        "name": "ApolloX",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "appcoins",
-        "symbol": "appc",
-        "name": "AppCoins",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "appics",
-        "symbol": "apx",
-        "name": "Appics",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "appifysite",
-        "symbol": "app",
-        "name": "AppifySite",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apricot",
-        "symbol": "aprt",
-        "name": "Apricot",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "april",
-        "symbol": "april",
-        "name": "April",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "apron",
-        "symbol": "apn",
-        "name": "Apron",
-        "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1013,
+        "market_cap_usd": "0.973597 USD"
       },
       {
         "id": "aston-villa-fan-token",
         "symbol": "avl",
         "name": "Aston Villa Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1196,
+        "market_cap_usd": "0.792627 USD"
       },
       {
-        "id": "astral-credits",
-        "symbol": "xac",
-        "name": "Astral Credits",
+        "id": "utopia",
+        "symbol": "crp",
+        "name": "Crypton",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1361,
+        "market_cap_usd": "0.344005 USD"
       },
       {
-        "id": "atromg8",
-        "symbol": "ag8",
-        "name": "ATROMG8",
+        "id": "portugal-national-team-fan-token",
+        "symbol": "por",
+        "name": "Portugal National Team Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1373,
+        "market_cap_usd": "0.962888 USD"
       },
       {
-        "id": "axe-2",
-        "symbol": "axe",
-        "name": "AXE",
+        "id": "young-boys-fan-token",
+        "symbol": "ybo",
+        "name": "Young Boys Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1832,
+        "market_cap_usd": "0.392796 USD"
       },
       {
-        "id": "baby-richard-heart",
-        "symbol": "$brich",
-        "name": "Baby Richard Heart",
+        "id": "decentral-games-ice",
+        "symbol": "ice",
+        "name": "Decentral Games ICE",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1835,
+        "market_cap_usd": "0.00298734 USD"
       },
       {
-        "id": "bellcoin",
-        "symbol": "bell",
-        "name": "Bellcoin",
+        "id": "hex-orange-address",
+        "symbol": "hoa",
+        "name": "Hex Orange Address",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1875,
+        "market_cap_usd": "0.00735242 USD"
       },
       {
-        "id": "beskar",
-        "symbol": "bsk-baa025",
-        "name": "Beskar",
+        "id": "istanbul-basaksehir-fan-token",
+        "symbol": "ibfk",
+        "name": "İstanbul Başakşehir Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1885,
+        "market_cap_usd": "0.967518 USD"
       },
       {
-        "id": "bibi",
-        "symbol": "bibi",
-        "name": "BIBI",
+        "id": "memetic",
+        "symbol": "meme",
+        "name": "Memetic",
         "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "biblecoin",
-        "symbol": "bibl",
-        "name": "Biblecoin",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "biblepay",
-        "symbol": "bbp",
-        "name": "BiblePay",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bibox-token",
-        "symbol": "bix",
-        "name": "Bibox",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "biconomy",
-        "symbol": "bico",
-        "name": "Biconomy",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "biconomy-exchange-token",
-        "symbol": "bit",
-        "name": "Biconomy Exchange Token",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bidao",
-        "symbol": "bid",
-        "name": "Bidao",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bidao-smart-chain",
-        "symbol": "bisc",
-        "name": "Bidao Smart Chain",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bidipass",
-        "symbol": "bdp",
-        "name": "BidiPass",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bidshop",
-        "symbol": "bids",
-        "name": "BIDSHOP",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bidz-coin",
-        "symbol": "bidz",
-        "name": "BIDZ Coin",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bifi",
-        "symbol": "bifi",
-        "name": "BiFi",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bigpanda",
-        "symbol": "bigpanda",
-        "name": "BIGPANDA",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "billionhappiness",
-        "symbol": "bhc",
-        "name": "BillionHappiness",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "billy-token",
-        "symbol": "billy",
-        "name": "Billy Token",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bim",
-        "symbol": "bim",
-        "name": "BIM",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "binamon",
-        "symbol": "bmon",
-        "name": "Binamon",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "birdtoken",
-        "symbol": "birdtoken",
-        "name": "birdToken",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bitcoin-trc20",
-        "symbol": "btct",
-        "name": "Bitcoin TRC20",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bitcoin-vault",
-        "symbol": "btcv",
-        "name": "Bitcoin Vault",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bitcoinx",
-        "symbol": "bcx",
-        "name": "BitcoinX",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bitoreum",
-        "symbol": "btrm",
-        "name": "Bitoreum",
-        "compliant": true,
-        "market_cap_rank": null
-      },
-      {
-        "id": "bologna-fc-fan-token",
-        "symbol": "bfc",
-        "name": "Bologna FC Fan Token",
-        "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1892,
+        "market_cap_usd": "0.02579442 USD"
       },
       {
         "id": "brazil-fan-token",
         "symbol": "bft",
         "name": "Brazil National Football Team Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1907,
+        "market_cap_usd": "0.03661862 USD"
       },
       {
-        "id": "btf",
-        "symbol": "btf",
-        "name": "Bitcoin Faith",
+        "id": "spain-national-fan-token",
+        "symbol": "snft",
+        "name": "Spain National Football Team Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 1953,
+        "market_cap_usd": "0.04218104 USD"
       },
       {
-        "id": "candy-pocket",
-        "symbol": "candy",
-        "name": "Candy Pocket",
+        "id": "natus-vincere-fan-token",
+        "symbol": "navi",
+        "name": "Natus Vincere Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 2008,
+        "market_cap_usd": "0.269363 USD"
       },
       {
-        "id": "canto-inu",
-        "symbol": "cinu",
-        "name": "Canto Inu",
+        "id": "primecoin",
+        "symbol": "xpm",
+        "name": "Primecoin",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 2112,
+        "market_cap_usd": "0.02659611 USD"
       },
       {
-        "id": "canto-shib",
-        "symbol": "cshib",
-        "name": "Canto Shib",
+        "id": "effect-network",
+        "symbol": "efx",
+        "name": "Effect Network",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 2216,
+        "market_cap_usd": "0.00276268 USD"
       },
       {
-        "id": "cashcats",
-        "symbol": "$cats",
-        "name": "CashCats",
+        "id": "alanyaspor-fan-token",
+        "symbol": "ala",
+        "name": "Alanyaspor Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 2221,
+        "market_cap_usd": "0.58329 USD"
       },
       {
-        "id": "charity-alfa",
-        "symbol": "mich",
-        "name": "Charity Alfa",
+        "id": "roush-fenway-racing-fan-token",
+        "symbol": "roush",
+        "name": "Roush Fenway Racing Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 2244,
+        "market_cap_usd": "0.656192 USD"
       },
       {
-        "id": "chop",
-        "symbol": "chop",
-        "name": "CHOP",
+        "id": "hempcoin-thc",
+        "symbol": "thc",
+        "name": "Hempcoin",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 2250,
+        "market_cap_usd": "0.00199298 USD"
+      },
+      {
+        "id": "endpoint-cex-fan-token",
+        "symbol": "endcex",
+        "name": "Endpoint Cex Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2262,
+        "market_cap_usd": "0.206421 USD"
+      },
+      {
+        "id": "smileycoin",
+        "symbol": "smly",
+        "name": "Smileycoin",
+        "compliant": true,
+        "market_cap_rank": 2374,
+        "market_cap_usd": "1.117e-05 USD"
+      },
+      {
+        "id": "dinamo-zagreb-fan-token",
+        "symbol": "dzg",
+        "name": "Dinamo Zagreb Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2382,
+        "market_cap_usd": "0.456611 USD"
+      },
+      {
+        "id": "atromg8",
+        "symbol": "ag8",
+        "name": "ATROMG8",
+        "compliant": true,
+        "market_cap_rank": 2399,
+        "market_cap_usd": "0.00647831 USD"
+      },
+      {
+        "id": "levante-ud-fan-token",
+        "symbol": "lev",
+        "name": "Levante U.D. Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2424,
+        "market_cap_usd": "0.356754 USD"
+      },
+      {
+        "id": "hush",
+        "symbol": "hush",
+        "name": "Hush",
+        "compliant": true,
+        "market_cap_rank": 2450,
+        "market_cap_usd": "0.02474332 USD"
+      },
+      {
+        "id": "alliance-fan-token",
+        "symbol": "all",
+        "name": "Alliance Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2486,
+        "market_cap_usd": "0.209508 USD"
+      },
+      {
+        "id": "mass",
+        "symbol": "mass",
+        "name": "MASS",
+        "compliant": true,
+        "market_cap_rank": 2497,
+        "market_cap_usd": "0.00322478 USD"
+      },
+      {
+        "id": "biblepay",
+        "symbol": "bbp",
+        "name": "BiblePay",
+        "compliant": true,
+        "market_cap_rank": 2542,
+        "market_cap_usd": "8.352e-05 USD"
+      },
+      {
+        "id": "bologna-fc-fan-token",
+        "symbol": "bfc",
+        "name": "Bologna FC Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2595,
+        "market_cap_usd": "0.440681 USD"
       },
       {
         "id": "club-atletico-independiente",
         "symbol": "cai",
         "name": "Club Atletico Independiente Fan Token",
         "compliant": true,
-        "market_cap_rank": null
+        "market_cap_rank": 2620,
+        "market_cap_usd": "0.251818 USD"
+      },
+      {
+        "id": "sint-truidense-voetbalvereniging-fan-token",
+        "symbol": "stv",
+        "name": "Sint-Truidense Voetbalvereniging Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2711,
+        "market_cap_usd": "0.674463 USD"
+      },
+      {
+        "id": "ink",
+        "symbol": "ink",
+        "name": "Ink",
+        "compliant": true,
+        "market_cap_rank": 2805,
+        "market_cap_usd": "0.00033872 USD"
+      },
+      {
+        "id": "novara-calcio-fan-token",
+        "symbol": "nov",
+        "name": "Novara Calcio Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2854,
+        "market_cap_usd": "0.326573 USD"
+      },
+      {
+        "id": "turkiye-basketbol-federasyonu-token",
+        "symbol": "tbft",
+        "name": "Türkiye Basketbol Federasyonu Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2976,
+        "market_cap_usd": "0.0103049 USD"
+      },
+      {
+        "id": "sphere",
+        "symbol": "sphr",
+        "name": "Sphere",
+        "compliant": true,
+        "market_cap_rank": 3012,
+        "market_cap_usd": "0.00739764 USD"
+      },
+      {
+        "id": "virtual-ride-token",
+        "symbol": "vrt",
+        "name": "Virtual Ride Token",
+        "compliant": true,
+        "market_cap_rank": 3032,
+        "market_cap_usd": "0.00523204 USD"
+      },
+      {
+        "id": "genix",
+        "symbol": "genix",
+        "name": "Genix",
+        "compliant": true,
+        "market_cap_rank": 3199,
+        "market_cap_usd": "0.00047497 USD"
+      },
+      {
+        "id": "ankaragucu-fan-token",
+        "symbol": "anka",
+        "name": "Ankaragücü Fan Token",
+        "compliant": true,
+        "market_cap_rank": 3227,
+        "market_cap_usd": "0.00180058 USD"
+      },
+      {
+        "id": "hondaiscoin",
+        "symbol": "hndc",
+        "name": "HondaisCoin",
+        "compliant": true,
+        "market_cap_rank": 3227,
+        "market_cap_usd": "9.20244e-07 USD"
+      },
+      {
+        "id": "inci-token",
+        "symbol": "inci",
+        "name": "Inci",
+        "compliant": true,
+        "market_cap_rank": 3285,
+        "market_cap_usd": "0.0010908 USD"
+      },
+      {
+        "id": "xp",
+        "symbol": "xp",
+        "name": "XP",
+        "compliant": true,
+        "market_cap_rank": 3297,
+        "market_cap_usd": "1.268e-05 USD"
+      },
+      {
+        "id": "turkiye-motosiklet-federasyonu-fan-token",
+        "symbol": "tmft",
+        "name": "Türkiye Motosiklet Federasyonu Fan Token",
+        "compliant": true,
+        "market_cap_rank": 3324,
+        "market_cap_usd": "0.000885 USD"
+      },
+      {
+        "id": "kemacoin",
+        "symbol": "kema",
+        "name": "KemaCoin",
+        "compliant": true,
+        "market_cap_rank": 3326,
+        "market_cap_usd": "0.00059573 USD"
+      },
+      {
+        "id": "horuspay",
+        "symbol": "horus",
+        "name": "HorusPay",
+        "compliant": true,
+        "market_cap_rank": 3444,
+        "market_cap_usd": "1.73e-05 USD"
+      },
+      {
+        "id": "litecoin-plus",
+        "symbol": "spb",
+        "name": "SpiderByte",
+        "compliant": true,
+        "market_cap_rank": 3487,
+        "market_cap_usd": "0.00396556 USD"
+      },
+      {
+        "id": "imagecoin",
+        "symbol": "img",
+        "name": "ImageCoin",
+        "compliant": true,
+        "market_cap_rank": 3539,
+        "market_cap_usd": "0.00041781 USD"
+      },
+      {
+        "id": "peseta-digital",
+        "symbol": "ptd",
+        "name": "Peseta Digital",
+        "compliant": true,
+        "market_cap_rank": 3562,
+        "market_cap_usd": "2.692e-05 USD"
+      },
+      {
+        "id": "quack",
+        "symbol": "quack",
+        "name": "QUACK",
+        "compliant": true,
+        "market_cap_rank": 3594,
+        "market_cap_usd": "5.95535e-07 USD"
+      },
+      {
+        "id": "secure-cash",
+        "symbol": "scsx",
+        "name": "Secure Cash",
+        "compliant": true,
+        "market_cap_rank": 3596,
+        "market_cap_usd": "0.00449599 USD"
+      },
+      {
+        "id": "agenor",
+        "symbol": "age",
+        "name": "Agenor",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.0004401 USD"
+      },
+      {
+        "id": "age-of-tanks",
+        "symbol": "a.o.t",
+        "name": "Age Of Tanks",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "alliance-x-trading",
+        "symbol": "axt",
+        "name": "Alliance X Trading",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00219788 USD"
+      },
+      {
+        "id": "astral-credits",
+        "symbol": "xac",
+        "name": "Astral Credits",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "4.898e-05 USD"
+      },
+      {
+        "id": "axe-2",
+        "symbol": "axe",
+        "name": "AXE",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "6.27248e-07 USD"
+      },
+      {
+        "id": "baby-richard-heart",
+        "symbol": "$brich",
+        "name": "Baby Richard Heart",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "7.41e-06 USD"
+      },
+      {
+        "id": "bellcoin",
+        "symbol": "bell",
+        "name": "Bellcoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00023876 USD"
+      },
+      {
+        "id": "beskar",
+        "symbol": "bsk-baa025",
+        "name": "Beskar",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "5.78e-06 USD"
+      },
+      {
+        "id": "bigpanda",
+        "symbol": "bigpanda",
+        "name": "BIGPANDA",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "5.358e-09 USD"
+      },
+      {
+        "id": "birdtoken",
+        "symbol": "birdtoken",
+        "name": "birdToken",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "7.92e-06 USD"
+      },
+      {
+        "id": "bitcoin-trc20",
+        "symbol": "btct",
+        "name": "Bitcoin TRC20",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "29954 USD"
+      },
+      {
+        "id": "bitcoin-vault",
+        "symbol": "btcv",
+        "name": "Bitcoin Vault",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.29 USD"
+      },
+      {
+        "id": "bitcoinx",
+        "symbol": "bcx",
+        "name": "BitcoinX",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00013933 USD"
+      },
+      {
+        "id": "bitoreum",
+        "symbol": "btrm",
+        "name": "Bitoreum",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.851e-05 USD"
+      },
+      {
+        "id": "btf",
+        "symbol": "btf",
+        "name": "Bitcoin Faith",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.93 USD"
+      },
+      {
+        "id": "candy-pocket",
+        "symbol": "candy",
+        "name": "Candy Pocket",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.064072 USD"
+      },
+      {
+        "id": "canto-inu",
+        "symbol": "cinu",
+        "name": "Canto Inu",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "6.58831e-10 USD"
+      },
+      {
+        "id": "canto-shib",
+        "symbol": "cshib",
+        "name": "Canto Shib",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "3.064e-12 USD"
+      },
+      {
+        "id": "cashcats",
+        "symbol": "$cats",
+        "name": "CashCats",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "5.729e-05 USD"
+      },
+      {
+        "id": "charity-alfa",
+        "symbol": "mich",
+        "name": "Charity Alfa",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.191e-05 USD"
+      },
+      {
+        "id": "chop",
+        "symbol": "chop",
+        "name": "CHOP",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "23.33 USD"
       },
       {
         "id": "core-id",
@@ -566,7 +598,7 @@
         "name": "CORE ID",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": 0.00191574
+        "market_cap_usd": "0.00186964 USD"
       },
       {
         "id": "cream",
@@ -574,7 +606,7 @@
         "name": "Creamcoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": 0.0004297
+        "market_cap_usd": "0.0004297 USD"
       },
       {
         "id": "crisp-scored-cookstoves",
@@ -718,7 +750,7 @@
         "name": "CrypWorld",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": 0.070919
+        "market_cap_usd": "0.070187 USD"
       },
       {
         "id": "cvshots",
@@ -726,15 +758,7 @@
         "name": "CVSHOTS",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": 0.00026546
-      },
-      {
-        "id": "decentral-games-ice",
-        "symbol": "ice",
-        "name": "Decentral Games ICE",
-        "compliant": true,
-        "market_cap_rank": 1835,
-        "market_cap_usd": "0.00298734 USD"
+        "market_cap_usd": "0.00026546 USD"
       },
       {
         "id": "decred-next",
@@ -742,7 +766,7 @@
         "name": "Decred-Next",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.070554 USD"
+        "market_cap_usd": "0.074119 USD"
       },
       {
         "id": "denizlispor-fan-token",
@@ -750,7 +774,7 @@
         "name": "Denizlispor Fan Token",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00245942 USD"
+        "market_cap_usd": "0.00251828 USD"
       },
       {
         "id": "deracoin",
@@ -758,7 +782,7 @@
         "name": "Deracoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00179517 USD"
+        "market_cap_usd": "0.00182116 USD"
       },
       {
         "id": "dextro",
@@ -769,28 +793,12 @@
         "market_cap_usd": "0.00039557 USD"
       },
       {
-        "id": "dinamo-zagreb-fan-token",
-        "symbol": "dzg",
-        "name": "Dinamo Zagreb Fan Token",
-        "compliant": true,
-        "market_cap_rank": 2359,
-        "market_cap_usd": "0.471414 USD"
-      },
-      {
-        "id": "dock",
-        "symbol": "dock",
-        "name": "Dock",
-        "compliant": true,
-        "market_cap_rank": 312,
-        "market_cap_usd": "0.01528844 USD"
-      },
-      {
         "id": "documentchain",
         "symbol": "dms",
         "name": "Documentchain",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00593063 USD"
+        "market_cap_usd": "0.00597674 USD"
       },
       {
         "id": "dogelon-classic",
@@ -806,7 +814,7 @@
         "name": "Doge Token",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00029374 USD"
+        "market_cap_usd": "0.00030036 USD"
       },
       {
         "id": "dominica-coin",
@@ -822,7 +830,7 @@
         "name": "DreamsCoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "2.93e-06 USD"
+        "market_cap_usd": "2.95e-06 USD"
       },
       {
         "id": "echosoracoin",
@@ -830,15 +838,7 @@
         "name": "EchoSoraCoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00239675 USD"
-      },
-      {
-        "id": "effect-network",
-        "symbol": "efx",
-        "name": "Effect Network",
-        "compliant": true,
-        "market_cap_rank": 2218,
-        "market_cap_usd": "0.00276268 USD"
+        "market_cap_usd": "0.0023875 USD"
       },
       {
         "id": "egg-n-partners",
@@ -846,15 +846,7 @@
         "name": "Egg N Partners",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.641522 USD"
-      },
-      {
-        "id": "endpoint-cex-fan-token",
-        "symbol": "endcex",
-        "name": "Endpoint Cex Fan Token",
-        "compliant": true,
-        "market_cap_rank": 2247,
-        "market_cap_usd": "0.214673 USD"
+        "market_cap_usd": "0.646361 USD"
       },
       {
         "id": "eos-pow-coin",
@@ -862,7 +854,7 @@
         "name": "EOS PoW Coin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00168087 USD"
+        "market_cap_usd": "0.00176555 USD"
       },
       {
         "id": "eskisehir-fan-token",
@@ -870,7 +862,7 @@
         "name": "Eskişehir Fan Token",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00538626 USD"
+        "market_cap_usd": "0.00545326 USD"
       },
       {
         "id": "ethereumx",
@@ -878,7 +870,7 @@
         "name": "EthereumX",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00159767 USD"
+        "market_cap_usd": "0.00158675 USD"
       },
       {
         "id": "expanse",
@@ -886,15 +878,7 @@
         "name": "Expanse",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00225348 USD"
-      },
-      {
-        "id": "flamengo-fan-token",
-        "symbol": "mengo",
-        "name": "Flamengo Fan Token",
-        "compliant": true,
-        "market_cap_rank": 1003,
-        "market_cap_usd": "0.444738 USD"
+        "market_cap_usd": "0.00224725 USD"
       },
       {
         "id": "fofo-token",
@@ -910,7 +894,7 @@
         "name": "FTX Users' Debt",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "10.14 USD"
+        "market_cap_usd": "10.22 USD"
       },
       {
         "id": "galaxycoin",
@@ -918,7 +902,7 @@
         "name": "GalaxyCoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "1.14e-09 USD"
+        "market_cap_usd": "1.144e-09 USD"
       },
       {
         "id": "gcn-coin",
@@ -926,15 +910,7 @@
         "name": "GCN Coin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "1.26968e-07 USD"
-      },
-      {
-        "id": "genix",
-        "symbol": "genix",
-        "name": "Genix",
-        "compliant": true,
-        "market_cap_rank": 3208,
-        "market_cap_usd": "0.00045094 USD"
+        "market_cap_usd": "1.13069e-07 USD"
       },
       {
         "id": "geocoin",
@@ -950,7 +926,7 @@
         "name": "GlitzKoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.050047 USD"
+        "market_cap_usd": "0.050137 USD"
       },
       {
         "id": "global-fan-token",
@@ -958,7 +934,7 @@
         "name": "Global Fan Token",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "3.69e-05 USD"
+        "market_cap_usd": "3.686e-05 USD"
       },
       {
         "id": "global-trading-xenocurren",
@@ -966,7 +942,7 @@
         "name": "Global Trading Xenocurrency",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00057219 USD"
+        "market_cap_usd": "0.00056831 USD"
       },
       {
         "id": "glouki",
@@ -974,7 +950,7 @@
         "name": "Glouki",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "9.99e-05 USD"
+        "market_cap_usd": "9.997e-05 USD"
       },
       {
         "id": "goldkash",
@@ -982,7 +958,7 @@
         "name": "GoldKash",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "1.29711e-07 USD"
+        "market_cap_usd": "1.28209e-07 USD"
       },
       {
         "id": "good-morning",
@@ -1017,14 +993,6 @@
         "market_cap_usd": "0.02386174 USD"
       },
       {
-        "id": "hempcoin-thc",
-        "symbol": "thc",
-        "name": "Hempcoin",
-        "compliant": true,
-        "market_cap_rank": 2250,
-        "market_cap_usd": "0.00199298 USD"
-      },
-      {
         "id": "herum",
         "symbol": "ram",
         "name": "Herum",
@@ -1033,44 +1001,12 @@
         "market_cap_usd": "2.971e-05 USD"
       },
       {
-        "id": "hex-orange-address",
-        "symbol": "hoa",
-        "name": "Hex Orange Address",
-        "compliant": true,
-        "market_cap_rank": 1890,
-        "market_cap_usd": "0.00713984 USD"
-      },
-      {
-        "id": "hondaiscoin",
-        "symbol": "hndc",
-        "name": "HondaisCoin",
-        "compliant": true,
-        "market_cap_rank": 3223,
-        "market_cap_usd": "9.20298e-07 USD"
-      },
-      {
-        "id": "horuspay",
-        "symbol": "horus",
-        "name": "HorusPay",
-        "compliant": true,
-        "market_cap_rank": 3443,
-        "market_cap_usd": "1.73e-05 USD"
-      },
-      {
         "id": "huebel-bolt",
         "symbol": "bolt",
         "name": "Huebel Bolt",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.051898 USD"
-      },
-      {
-        "id": "hush",
-        "symbol": "hush",
-        "name": "Hush",
-        "compliant": true,
-        "market_cap_rank": 2452,
-        "market_cap_usd": "0.02486382 USD"
+        "market_cap_usd": "0.052167 USD"
       },
       {
         "id": "icomex",
@@ -1078,23 +1014,7 @@
         "name": "iCOMEX",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.090041 USD"
-      },
-      {
-        "id": "imagecoin",
-        "symbol": "img",
-        "name": "ImageCoin",
-        "compliant": true,
-        "market_cap_rank": 3537,
-        "market_cap_usd": "0.00044903 USD"
-      },
-      {
-        "id": "inci-token",
-        "symbol": "inci",
-        "name": "Inci",
-        "compliant": true,
-        "market_cap_rank": 3289,
-        "market_cap_usd": "0.00108508 USD"
+        "market_cap_usd": "0.090024 USD"
       },
       {
         "id": "income-island",
@@ -1105,36 +1025,12 @@
         "market_cap_usd": "None EUR"
       },
       {
-        "id": "ink",
-        "symbol": "ink",
-        "name": "Ink",
-        "compliant": true,
-        "market_cap_rank": 2807,
-        "market_cap_usd": "0.00033986 USD"
-      },
-      {
-        "id": "istanbul-basaksehir-fan-token",
-        "symbol": "ibfk",
-        "name": "İstanbul Başakşehir Fan Token",
-        "compliant": true,
-        "market_cap_rank": 1897,
-        "market_cap_usd": "0.946894 USD"
-      },
-      {
         "id": "karsiyaka-taraftar-token",
         "symbol": "ksk",
         "name": "Karşıyaka Taraftar Fan Token",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.0178729 USD"
-      },
-      {
-        "id": "kemacoin",
-        "symbol": "kema",
-        "name": "KemaCoin",
-        "compliant": true,
-        "market_cap_rank": 3329,
-        "market_cap_usd": "0.00059493 USD"
+        "market_cap_usd": "0.01823373 USD"
       },
       {
         "id": "kenka-metaverse",
@@ -1142,7 +1038,7 @@
         "name": "KENKA METAVERSE",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "2.97128e-07 USD"
+        "market_cap_usd": "3.0096e-07 USD"
       },
       {
         "id": "kintsugi-btc",
@@ -1151,14 +1047,6 @@
         "compliant": true,
         "market_cap_rank": null,
         "market_cap_usd": "30452 USD"
-      },
-      {
-        "id": "levante-ud-fan-token",
-        "symbol": "lev",
-        "name": "Levante U.D. Fan Token",
-        "compliant": true,
-        "market_cap_rank": 2420,
-        "market_cap_usd": "0.363881 USD"
       },
       {
         "id": "lichang",
@@ -1206,7 +1094,7 @@
         "name": "Lightyears",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "None EUR"
+        "market_cap_usd": "0.01880874 USD"
       },
       {
         "id": "linkpool",
@@ -1310,15 +1198,7 @@
         "name": "LITE",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00497122 USD"
-      },
-      {
-        "id": "litecoin-plus",
-        "symbol": "spb",
-        "name": "SpiderByte",
-        "compliant": true,
-        "market_cap_rank": 3486,
-        "market_cap_usd": "0.00396556 USD"
+        "market_cap_usd": "0.00502942 USD"
       },
       {
         "id": "lumi-credits",
@@ -1326,15 +1206,7 @@
         "name": "LUMI Credits",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00792647 USD"
-      },
-      {
-        "id": "mass",
-        "symbol": "mass",
-        "name": "MASS",
-        "compliant": true,
-        "market_cap_rank": 2494,
-        "market_cap_usd": "0.00321332 USD"
+        "market_cap_usd": "0.0079176 USD"
       },
       {
         "id": "mei-flex",
@@ -1342,7 +1214,7 @@
         "name": "Mei Flex",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.146091 USD"
+        "market_cap_usd": "0.146981 USD"
       },
       {
         "id": "meme-shib",
@@ -1353,20 +1225,12 @@
         "market_cap_usd": "1.5623e-11 USD"
       },
       {
-        "id": "memetic",
-        "symbol": "meme",
-        "name": "Memetic",
-        "compliant": true,
-        "market_cap_rank": 1888,
-        "market_cap_usd": "0.02579442 USD"
-      },
-      {
         "id": "meta-mine",
         "symbol": "mtmn",
         "name": "META MINE",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00267647 USD"
+        "market_cap_usd": "0.00252785 USD"
       },
       {
         "id": "metanyx",
@@ -1374,7 +1238,7 @@
         "name": "Metanyx",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00014823 USD"
+        "market_cap_usd": "0.00014996 USD"
       },
       {
         "id": "mobilecoin",
@@ -1382,7 +1246,7 @@
         "name": "MobileCoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.47679 USD"
+        "market_cap_usd": "0.475672 USD"
       },
       {
         "id": "moola-celo-atoken",
@@ -1398,7 +1262,7 @@
         "name": "MoonBeans",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.129606 USD"
+        "market_cap_usd": "0.127706 USD"
       },
       {
         "id": "mx-token-2",
@@ -1422,15 +1286,7 @@
         "name": "Nasdacoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.0007966 USD"
-      },
-      {
-        "id": "natus-vincere-fan-token",
-        "symbol": "navi",
-        "name": "Natus Vincere Fan Token",
-        "compliant": true,
-        "market_cap_rank": 1987,
-        "market_cap_usd": "0.280656 USD"
+        "market_cap_usd": "0.00085045 USD"
       },
       {
         "id": "nexalt",
@@ -1438,15 +1294,7 @@
         "name": "Nexalt",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00388508 USD"
-      },
-      {
-        "id": "novara-calcio-fan-token",
-        "symbol": "nov",
-        "name": "Novara Calcio Fan Token",
-        "compliant": true,
-        "market_cap_rank": 2851,
-        "market_cap_usd": "0.338089 USD"
+        "market_cap_usd": "0.00417813 USD"
       },
       {
         "id": "oec-bch",
@@ -1454,7 +1302,7 @@
         "name": "OEC BCH",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "246.04 USD"
+        "market_cap_usd": "241.0 USD"
       },
       {
         "id": "oec-binance-coin",
@@ -1462,7 +1310,7 @@
         "name": "OEC Binance Coin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "189.47 USD"
+        "market_cap_usd": "189.21 USD"
       },
       {
         "id": "oec-btc",
@@ -1470,7 +1318,7 @@
         "name": "OEC BTC",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "29713 USD"
+        "market_cap_usd": "29690 USD"
       },
       {
         "id": "oec-dai",
@@ -1486,7 +1334,7 @@
         "name": "OEC DOT",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "3.88 USD"
+        "market_cap_usd": "3.85 USD"
       },
       {
         "id": "oec-etc",
@@ -1494,7 +1342,7 @@
         "name": "OEC ETC",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "16.34 USD"
+        "market_cap_usd": "15.3 USD"
       },
       {
         "id": "oec-eth",
@@ -1502,7 +1350,7 @@
         "name": "OEC ETH",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "1624.62 USD"
+        "market_cap_usd": "1624.16 USD"
       },
       {
         "id": "oec-fil",
@@ -1510,7 +1358,7 @@
         "name": "OEC FIL",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "3.33 USD"
+        "market_cap_usd": "3.37 USD"
       },
       {
         "id": "oec-ltc",
@@ -1526,7 +1374,7 @@
         "name": "OEC SHIB",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "7.1e-06 USD"
+        "market_cap_usd": "7.09e-06 USD"
       },
       {
         "id": "oec-tron",
@@ -1550,7 +1398,7 @@
         "name": "Ombre",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "1.819e-05 USD"
+        "market_cap_usd": "1.804e-05 USD"
       },
       {
         "id": "omotenashicoin",
@@ -1558,7 +1406,7 @@
         "name": "OmotenashiCoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00014171 USD"
+        "market_cap_usd": "0.00014024 USD"
       },
       {
         "id": "opalcoin",
@@ -1566,7 +1414,7 @@
         "name": "Opalcoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "2.992e-05 USD"
+        "market_cap_usd": "2.986e-05 USD"
       },
       {
         "id": "oraclechain",
@@ -1574,7 +1422,7 @@
         "name": "OracleChain",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00845779 USD"
+        "market_cap_usd": "0.00848256 USD"
       },
       {
         "id": "paybandcoin",
@@ -1582,7 +1430,7 @@
         "name": "PaybandCoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "2.759e-05 USD"
+        "market_cap_usd": "2.731e-05 USD"
       },
       {
         "id": "pepe-on-pulsechain",
@@ -1590,15 +1438,7 @@
         "name": "PEPE on PulseChain",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "3.73494e-10 USD"
-      },
-      {
-        "id": "peseta-digital",
-        "symbol": "ptd",
-        "name": "Peseta Digital",
-        "compliant": true,
-        "market_cap_rank": 3562,
-        "market_cap_usd": "2.692e-05 USD"
+        "market_cap_usd": "3.86057e-10 USD"
       },
       {
         "id": "pgala",
@@ -1606,7 +1446,7 @@
         "name": "pGALA",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00069275 USD"
+        "market_cap_usd": "0.00062977 USD"
       },
       {
         "id": "phux-governance-token",
@@ -1614,7 +1454,7 @@
         "name": "PHUX Governance Token",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00535037 USD"
+        "market_cap_usd": "0.00539628 USD"
       },
       {
         "id": "pixie",
@@ -1622,7 +1462,7 @@
         "name": "Pixie",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00020233 USD"
+        "market_cap_usd": "0.00020423 USD"
       },
       {
         "id": "plaza-dao",
@@ -1630,7 +1470,7 @@
         "name": "Plaza DAO",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "3.974e-05 USD"
+        "market_cap_usd": "4.608e-05 USD"
       },
       {
         "id": "pollux-coin",
@@ -1638,23 +1478,7 @@
         "name": "Pollux Coin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.661825 USD"
-      },
-      {
-        "id": "portugal-national-team-fan-token",
-        "symbol": "por",
-        "name": "Portugal National Team Fan Token",
-        "compliant": true,
-        "market_cap_rank": 1380,
-        "market_cap_usd": "0.956524 USD"
-      },
-      {
-        "id": "primecoin",
-        "symbol": "xpm",
-        "name": "Primecoin",
-        "compliant": true,
-        "market_cap_rank": 2106,
-        "market_cap_usd": "0.02668274 USD"
+        "market_cap_usd": "0.640598 USD"
       },
       {
         "id": "proof-of-gorila",
@@ -1671,14 +1495,6 @@
         "compliant": true,
         "market_cap_rank": null,
         "market_cap_usd": "9.551e-09 USD"
-      },
-      {
-        "id": "quack",
-        "symbol": "quack",
-        "name": "QUACK",
-        "compliant": true,
-        "market_cap_rank": 3593,
-        "market_cap_usd": "5.95535e-07 USD"
       },
       {
         "id": "quebecoin",
@@ -1833,28 +1649,12 @@
         "market_cap_usd": "None EUR"
       },
       {
-        "id": "rif-token",
-        "symbol": "rif",
-        "name": "RSK Infrastructure Framework",
-        "compliant": true,
-        "market_cap_rank": 244,
-        "market_cap_usd": "0.096522 USD"
-      },
-      {
         "id": "ror-universe",
         "symbol": "ror",
         "name": "ROR Universe",
         "compliant": true,
         "market_cap_rank": null,
         "market_cap_usd": "0.00103547 USD"
-      },
-      {
-        "id": "roush-fenway-racing-fan-token",
-        "symbol": "roush",
-        "name": "Roush Fenway Racing Fan Token",
-        "compliant": true,
-        "market_cap_rank": 2248,
-        "market_cap_usd": "0.668338 USD"
       },
       {
         "id": "san-diego-coin",
@@ -1873,36 +1673,12 @@
         "market_cap_usd": "0.00016697 USD"
       },
       {
-        "id": "secure-cash",
-        "symbol": "scsx",
-        "name": "Secure Cash",
-        "compliant": true,
-        "market_cap_rank": 3595,
-        "market_cap_usd": "0.00512223 USD"
-      },
-      {
         "id": "silvercashs",
         "symbol": "svc",
         "name": "Silvercashs",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "2.87e-06 USD"
-      },
-      {
-        "id": "sint-truidense-voetbalvereniging-fan-token",
-        "symbol": "stv",
-        "name": "Sint-Truidense Voetbalvereniging Fan Token",
-        "compliant": true,
-        "market_cap_rank": 2698,
-        "market_cap_usd": "0.689091 USD"
-      },
-      {
-        "id": "smileycoin",
-        "symbol": "smly",
-        "name": "Smileycoin",
-        "compliant": true,
-        "market_cap_rank": 2374,
-        "market_cap_usd": "1.124e-05 USD"
+        "market_cap_usd": "2.86e-06 USD"
       },
       {
         "id": "sorachancoin",
@@ -1910,23 +1686,7 @@
         "name": "SorachanCoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.02532974 USD"
-      },
-      {
-        "id": "spain-national-fan-token",
-        "symbol": "snft",
-        "name": "Spain National Football Team Fan Token",
-        "compliant": true,
-        "market_cap_rank": 1950,
-        "market_cap_usd": "0.04236762 USD"
-      },
-      {
-        "id": "sphere",
-        "symbol": "sphr",
-        "name": "Sphere",
-        "compliant": true,
-        "market_cap_rank": 3009,
-        "market_cap_usd": "0.00739764 USD"
+        "market_cap_usd": "0.02487255 USD"
       },
       {
         "id": "staked-aave-balancer-pool-token",
@@ -2070,7 +1830,7 @@
         "name": "Starlink Program",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00186444 USD"
+        "market_cap_usd": "0.0020521 USD"
       },
       {
         "id": "supercells",
@@ -2078,7 +1838,7 @@
         "name": "SuperCells",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.110072 USD"
+        "market_cap_usd": "0.077802 USD"
       },
       {
         "id": "superciety",
@@ -2086,7 +1846,7 @@
         "name": "PeerMe SUPER",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.01570178 USD"
+        "market_cap_usd": "0.01560282 USD"
       },
       {
         "id": "sweply",
@@ -2238,7 +1998,7 @@
         "name": "Team Heretics Fan Token",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.40537 USD"
+        "market_cap_usd": "0.390072 USD"
       },
       {
         "id": "timtim-games",
@@ -2246,7 +2006,7 @@
         "name": "TIMTIM GAMES",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "2.61e-06 USD"
+        "market_cap_usd": "2.59e-06 USD"
       },
       {
         "id": "title-network",
@@ -2254,7 +2014,7 @@
         "name": "Bitcoin Clashic",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00209969 USD"
+        "market_cap_usd": "0.00239775 USD"
       },
       {
         "id": "tokenlon",
@@ -2398,15 +2158,7 @@
         "name": "Tonex",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.03910215 USD"
-      },
-      {
-        "id": "trabzonspor-fan-token",
-        "symbol": "tra",
-        "name": "Trabzonspor Fan Token",
-        "compliant": true,
-        "market_cap_rank": 1012,
-        "market_cap_usd": "0.965551 USD"
+        "market_cap_usd": "0.0396246 USD"
       },
       {
         "id": "trolite",
@@ -2414,7 +2166,7 @@
         "name": "Trolite",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00299795 USD"
+        "market_cap_usd": "0.00299733 USD"
       },
       {
         "id": "tronbetlive",
@@ -2430,39 +2182,7 @@
         "name": "TronEuropeRewardCoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00130067 USD"
-      },
-      {
-        "id": "troy",
-        "symbol": "troy",
-        "name": "TROY",
-        "compliant": true,
-        "market_cap_rank": 617,
-        "market_cap_usd": "0.00227009 USD"
-      },
-      {
-        "id": "turkiye-basketbol-federasyonu-token",
-        "symbol": "tbft",
-        "name": "Türkiye Basketbol Federasyonu Fan Token",
-        "compliant": true,
-        "market_cap_rank": 2983,
-        "market_cap_usd": "0.01040512 USD"
-      },
-      {
-        "id": "turkiye-motosiklet-federasyonu-fan-token",
-        "symbol": "tmft",
-        "name": "Türkiye Motosiklet Federasyonu Fan Token",
-        "compliant": true,
-        "market_cap_rank": 3320,
-        "market_cap_usd": "0.00089 USD"
-      },
-      {
-        "id": "ufc-fan-token",
-        "symbol": "ufc",
-        "name": "UFC Fan Token",
-        "compliant": true,
-        "market_cap_rank": 892,
-        "market_cap_usd": "0.92146 USD"
+        "market_cap_usd": "0.00135013 USD"
       },
       {
         "id": "umbra-network",
@@ -2521,14 +2241,6 @@
         "market_cap_usd": "None EUR"
       },
       {
-        "id": "utopia",
-        "symbol": "crp",
-        "name": "Crypton",
-        "compliant": true,
-        "market_cap_rank": null,
-        "market_cap_usd": "None EUR"
-      },
-      {
         "id": "vanilla-2",
         "symbol": "bum",
         "name": "Vanilla",
@@ -2558,7 +2270,7 @@
         "name": "Vankia Chain",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "None EUR"
+        "market_cap_usd": "0.00026385 USD"
       },
       {
         "id": "vaporfi",
@@ -2630,7 +2342,7 @@
         "name": "Veco",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00011998 USD"
+        "market_cap_usd": "0.00014973 USD"
       },
       {
         "id": "venus-reward-token",
@@ -2774,7 +2486,7 @@
         "name": "Vibing",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.239251 USD"
+        "market_cap_usd": "0.239188 USD"
       },
       {
         "id": "vip-coin",
@@ -2782,15 +2494,7 @@
         "name": "Vip Coin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00359235 USD"
-      },
-      {
-        "id": "virtual-ride-token",
-        "symbol": "vrt",
-        "name": "Virtual Ride Token",
-        "compliant": true,
-        "market_cap_rank": 3029,
-        "market_cap_usd": "0.00523574 USD"
+        "market_cap_usd": "0.0035995 USD"
       },
       {
         "id": "vitalxp",
@@ -2822,7 +2526,7 @@
         "name": "WFCA",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.40301 USD"
+        "market_cap_usd": "0.402217 USD"
       },
       {
         "id": "wrapped-bones",
@@ -2830,7 +2534,7 @@
         "name": "Wrapped BONES",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.716219 USD"
+        "market_cap_usd": "0.718666 USD"
       },
       {
         "id": "wrapped-btc-trustless-bridge",
@@ -2854,7 +2558,7 @@
         "name": "Wrapped ETHW",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "1.25 USD"
+        "market_cap_usd": "1.26 USD"
       },
       {
         "id": "wrapped-okt",
@@ -2862,7 +2566,7 @@
         "name": "Wrapped OKT",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "11.33 USD"
+        "market_cap_usd": "11.37 USD"
       },
       {
         "id": "wrapped-velas",
@@ -2870,7 +2574,7 @@
         "name": "Wrapped Velas",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.00691644 USD"
+        "market_cap_usd": "0.00691214 USD"
       },
       {
         "id": "xactrewards",
@@ -2878,7 +2582,7 @@
         "name": "XActRewards",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.257013 USD"
+        "market_cap_usd": "0.257233 USD"
       },
       {
         "id": "xenbitcoin",
@@ -2886,7 +2590,175 @@
         "name": "XenBitcoin",
         "compliant": true,
         "market_cap_rank": null,
-        "market_cap_usd": "0.391395 USD"
+        "market_cap_usd": "0.40056 USD"
+      },
+      {
+        "id": "xfarmer",
+        "symbol": "xf",
+        "name": "xFarmer",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00283142 USD"
+      },
+      {
+        "id": "xfuel",
+        "symbol": "xfuel",
+        "name": "XFUEL",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00065882 USD"
+      },
+      {
+        "id": "yes-2",
+        "symbol": "yesgo",
+        "name": "Yes",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.02001668 USD"
+      },
+      {
+        "id": "zaif-token",
+        "symbol": "zaif",
+        "name": "Zaif",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00029581 USD"
+      },
+      {
+        "id": "zeniq",
+        "symbol": "zeniq",
+        "name": "ZENIQ",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zenith-chain",
+        "symbol": "zenith",
+        "name": "Zenith Chain",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zenithereum",
+        "symbol": "zen-ai",
+        "name": "Zenithereum",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zenith-token-306740ae-2497-41a7-aef9-ec34e7f12aa3",
+        "symbol": "zth",
+        "name": "Zenith Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zenith-wallet",
+        "symbol": "zw",
+        "name": "Zenith Wallet",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zenland",
+        "symbol": "zenf",
+        "name": "Zenland",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zenlink-network-token",
+        "symbol": "zlk",
+        "name": "Zenlink Network",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zenon-2",
+        "symbol": "znn",
+        "name": "Zenon",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zenpandacoin",
+        "symbol": "$zpc",
+        "name": "ZenPandaCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zensports",
+        "symbol": "sports",
+        "name": "ZenSports",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zent-cash",
+        "symbol": "ztc",
+        "name": "Zent Cash",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zenzo",
+        "symbol": "znz",
+        "name": "ZENZO",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zeus",
+        "symbol": "zeus",
+        "name": "Zeus",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zeus-ai",
+        "symbol": "zeus",
+        "name": "Zeus AI",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zeusaitrading",
+        "symbol": "zat",
+        "name": "ZeusAiTrading",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zeusshield",
+        "symbol": "zsc",
+        "name": "Zeusshield",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "zexicon",
+        "symbol": "zexi",
+        "name": "Zexicon",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
       }
     ]
   }
