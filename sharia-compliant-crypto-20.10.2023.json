@@ -1,1 +1,2892 @@
-{"data":[{"id":"01coin","symbol":"zoc","name":"01coin"},{"id":"aave-ren-v1","symbol":"aren","name":"Aave REN v1"},{"id":"aave-snx","symbol":"asnx","name":"Aave SNX"},{"id":"aave-snx-v1","symbol":"asnx","name":"Aave SNX v1"},{"id":"aave-susd","symbol":"asusd","name":"Aave SUSD"},{"id":"aave-susd-v1","symbol":"asusd","name":"Aave SUSD v1"},{"id":"aave-tusd","symbol":"atusd","name":"Aave TUSD"},{"id":"aave-tusd-v1","symbol":"atusd","name":"Aave TUSD v1"},{"id":"aave-uni","symbol":"auni","name":"Aave UNI"},{"id":"abey","symbol":"abey","name":"Abey"},{"id":"aboat-token-2","symbol":"aboat","name":"Aboat Token"},{"id":"absolute-sync-token","symbol":"ast","name":"Absolute Sync"},{"id":"abyss-world","symbol":"awt","name":"Abyss World"},{"id":"acala","symbol":"aca","name":"Acala"},{"id":"acala-dollar-acala","symbol":"ausd","name":"Acala Dollar (Acala)"},{"id":"access-protocol","symbol":"acs","name":"Access Protocol"},{"id":"acent","symbol":"ace","name":"Acent"},{"id":"ac-milan-fan-token","symbol":"acm","name":"AC Milan Fan Token"},{"id":"agenor","symbol":"age","name":"Agenor"},{"id":"age-of-tanks","symbol":"a.o.t","name":"Age Of Tanks"},{"id":"alanyaspor-fan-token","symbol":"ala","name":"Alanyaspor Fan Token"},{"id":"alliance-fan-token","symbol":"all","name":"Alliance Fan Token"},{"id":"alliance-x-trading","symbol":"axt","name":"Alliance X Trading"},{"id":"ankaragucu-fan-token","symbol":"anka","name":"Ankaragücü Fan Token"},{"id":"apf-coin","symbol":"apfc","name":"APF coin"},{"id":"api3","symbol":"api3","name":"API3"},{"id":"apidae","symbol":"apt","name":"Apidae"},{"id":"apiens","symbol":"apn","name":"Apiens"},{"id":"apin-pulse","symbol":"apc","name":"Apin Pulse"},{"id":"apm-coin","symbol":"apm","name":"apM Coin"},{"id":"apollo","symbol":"apl","name":"Apollo"},{"id":"apollo-crypto","symbol":"apollo","name":"Apollo Crypto"},{"id":"apollon-limassol","symbol":"apl","name":"Apollon Limassol Fan Token"},{"id":"apollo-token","symbol":"apollo","name":"Apollo Token"},{"id":"apollox-2","symbol":"apx","name":"ApolloX"},{"id":"appcoins","symbol":"appc","name":"AppCoins"},{"id":"appics","symbol":"apx","name":"Appics"},{"id":"appifysite","symbol":"app","name":"AppifySite"},{"id":"apricot","symbol":"aprt","name":"Apricot"},{"id":"april","symbol":"april","name":"April"},{"id":"apron","symbol":"apn","name":"Apron"},{"id":"aston-villa-fan-token","symbol":"avl","name":"Aston Villa Fan Token"},{"id":"astral-credits","symbol":"xac","name":"Astral Credits"},{"id":"atromg8","symbol":"ag8","name":"ATROMG8"},{"id":"axe-2","symbol":"axe","name":"AXE"},{"id":"baby-richard-heart","symbol":"$brich","name":"Baby Richard Heart"},{"id":"bellcoin","symbol":"bell","name":"Bellcoin"},{"id":"beskar","symbol":"bsk-baa025","name":"Beskar"},{"id":"bibi","symbol":"bibi","name":"BIBI"},{"id":"biblecoin","symbol":"bibl","name":"Biblecoin"},{"id":"biblepay","symbol":"bbp","name":"BiblePay"},{"id":"bibox-token","symbol":"bix","name":"Bibox"},{"id":"biconomy","symbol":"bico","name":"Biconomy"},{"id":"biconomy-exchange-token","symbol":"bit","name":"Biconomy Exchange Token"},{"id":"bidao","symbol":"bid","name":"Bidao"},{"id":"bidao-smart-chain","symbol":"bisc","name":"Bidao Smart Chain"},{"id":"bidipass","symbol":"bdp","name":"BidiPass"},{"id":"bidshop","symbol":"bids","name":"BIDSHOP"},{"id":"bidz-coin","symbol":"bidz","name":"BIDZ Coin"},{"id":"bifi","symbol":"bifi","name":"BiFi"},{"id":"bigpanda","symbol":"bigpanda","name":"BIGPANDA"},{"id":"billionhappiness","symbol":"bhc","name":"BillionHappiness"},{"id":"billy-token","symbol":"billy","name":"Billy Token"},{"id":"bim","symbol":"bim","name":"BIM"},{"id":"binamon","symbol":"bmon","name":"Binamon"},{"id":"birdtoken","symbol":"birdtoken","name":"birdToken"},{"id":"bitcoin-trc20","symbol":"btct","name":"Bitcoin TRC20"},{"id":"bitcoin-vault","symbol":"btcv","name":"Bitcoin Vault"},{"id":"bitcoinx","symbol":"bcx","name":"BitcoinX"},{"id":"bitoreum","symbol":"btrm","name":"Bitoreum"},{"id":"bologna-fc-fan-token","symbol":"bfc","name":"Bologna FC Fan Token"},{"id":"brazil-fan-token","symbol":"bft","name":"Brazil National Football Team Fan Token"},{"id":"btf","symbol":"btf","name":"Bitcoin Faith"},{"id":"candy-pocket","symbol":"candy","name":"Candy Pocket"},{"id":"canto-inu","symbol":"cinu","name":"Canto Inu"},{"id":"canto-shib","symbol":"cshib","name":"Canto Shib"},{"id":"cashcats","symbol":"$cats","name":"CashCats"},{"id":"charity-alfa","symbol":"mich","name":"Charity Alfa"},{"id":"chop","symbol":"chop","name":"CHOP"},{"id":"club-atletico-independiente","symbol":"cai","name":"Club Atletico Independiente Fan Token"},{"id":"core-id","symbol":"cid","name":"CORE ID","compliant":true,"market_cap_rank":null,"market_cap_usd":0.00191574},{"id":"cream","symbol":"crm","name":"Creamcoin","compliant":true,"market_cap_rank":null,"market_cap_usd":0.0004297},{"id":"cresio","symbol":"xcre","name":"Cresio"},{"id":"creta-world","symbol":"creta","name":"Creta World"},{"id":"cri3x","symbol":"cri3x","name":"Cri3x"},{"id":"cricket-foundation","symbol":"cric","name":"Cricket Foundation"},{"id":"cricket-star-manager","symbol":"csm","name":"Cricket Star Manager"},{"id":"crimson-network","symbol":"crimson","name":"Crimson Network"},{"id":"criptoville-coins-2","symbol":"cvlc2","name":"CriptoVille Coins 2"},{"id":"crisp-scored-cookstoves","symbol":"crisp-c","name":"CRISP Scored Cookstoves","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"crisp-scored-mangroves","symbol":"crisp-m","name":"CRISP Scored Mangroves","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"croatian-ff-fan-token","symbol":"vatreni","name":"Croatian FF Fan Token","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"crocbot","symbol":"croc","name":"CrocBot","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"crodex","symbol":"crx","name":"Crodex","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"crogecoin","symbol":"croge","name":"Crogecoin","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"croissant-games","symbol":"croissant","name":"Croissant Games","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"croking","symbol":"crk","name":"Croking","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"crolon-mars","symbol":"clmrs","name":"Crolon Mars","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"cronos-id","symbol":"croid","name":"Cronos ID","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"cronosphere","symbol":"sphere","name":"Cronosphere","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"cronosverse","symbol":"vrse","name":"CronosVerse","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"cropbytes","symbol":"cbx","name":"CropBytes","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"cross-chain-bridge","symbol":"bridge","name":"Cross-Chain Bridge","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"crosschain-iotx","symbol":"ciotx","name":"Crosschain IOTX","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"crossdex","symbol":"cdx","name":"CrossDEX","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"crossfi","symbol":"crfi","name":"CrossFi","compliant":true,"market_cap_rank":null,"market_cap_usd":"ikke funnet"},{"id":"crossfi-2","symbol":"xfi","name":"CrossFi"},{"id":"crosswallet","symbol":"cwt","name":"CrossWallet"},{"id":"crowd","symbol":"cwd","name":"CROWD"},{"id":"crown","symbol":"crw","name":"Crown"},{"id":"crown-by-third-time-games","symbol":"crown","name":"Crown by Third Time Games"},{"id":"crowns","symbol":"cws","name":"Seascape Crowns"},{"id":"crown-sovereign","symbol":"csov","name":"Crown Sovereign"},{"id":"crown-token-77469f91-69f6-44dd-b356-152e2c39c0cc","symbol":"crown","name":"Crown Token"},{"id":"crowny-token","symbol":"crwny","name":"Crowny"},{"id":"crunchy-dao","symbol":"crdao","name":"Crunchy DAO"},{"id":"crunchy-network","symbol":"crnchy","name":"Crunchy Network"},{"id":"crusaders-of-crypto","symbol":"crusader","name":"Crusaders of Crypto"},{"id":"crypto-carbon-energy-2","symbol":"cyce","name":"Crypto Carbon Energy"},{"id":"cryptocart","symbol":"ccv2","name":"CryptoCart V2"},{"id":"crypto-classic","symbol":"crc","name":"Crypto Classic"},{"id":"crypto-com-chain","symbol":"cro","name":"Cronos"},{"id":"crypto-development-services","symbol":"cds","name":"Crypto Development Services"},{"id":"crypto-emergency","symbol":"cem","name":"Crypto Emergency"},{"id":"cryptoexpress","symbol":"xpress","name":"CryptoXpress"},{"id":"crypto-fight-club","symbol":"fight","name":"Crypto Fight Club"},{"id":"cryptoflow","symbol":"cfl","name":"Cryptoflow"},{"id":"cryptofranc","symbol":"xchf","name":"CryptoFranc"},{"id":"cryptogcoin","symbol":"crg","name":"Cryptogcoin"},{"id":"crypto-gladiator-shards","symbol":"cgl","name":"Crypto Gladiator League"},{"id":"crypto-global-united","symbol":"cgu","name":"Crypto Global United"},{"id":"cryptogpt-token","symbol":"lai","name":"LayerAI"},{"id":"crypto-holding-frank-token","symbol":"chft","name":"Crypto Holding Frank"},{"id":"crypto-island","symbol":"cisla","name":"Crypto Island"},{"id":"crypto-kart-racing","symbol":"ckracing","name":"Crypto Kart Racing"},{"id":"cryptokki","symbol":"tokki","name":"CRYPTOKKI"},{"id":"cryptoku","symbol":"cku","name":"Cryptoku"},{"id":"cryptomeda","symbol":"tech","name":"Cryptomeda"},{"id":"cryptomines-eternal","symbol":"eternal","name":"CryptoMines Eternal"},{"id":"cryptomines-reborn","symbol":"crux","name":"CryptoMines Reborn"},{"id":"cryptoneur-network-foundation","symbol":"cnf","name":"CryptoNeur Network foundation"},{"id":"crypto-news-flash-ai","symbol":"cnf","name":"Crypto News Flash AI"},{"id":"cryptonovae","symbol":"yae","name":"Cryptonovae"},{"id":"cryptopawcoin","symbol":"cprc","name":"CryptoPawCoin"},{"id":"cryptopay","symbol":"cpay","name":"Cryptopay"},{"id":"crypto-pepe-mines","symbol":"cpm","name":"Crypto Pepe Mines"},{"id":"cryptoperformance-coin","symbol":"cpc","name":"CryptoPerformance Coin"},{"id":"crypto-perx","symbol":"cprx","name":"Crypto Perx"},{"id":"cryptopirates","symbol":"ogmf","name":"CryptoPirates"},{"id":"cryptopolis","symbol":"cpo","name":"Cryptopolis"},{"id":"crypto-puffs","symbol":"puffs","name":"Crypto Puffs"},{"id":"cryptopunk-7171-hoodie","symbol":"hoodie","name":"CryptoPunk #7171"},{"id":"cryptopunks-fraction-toke","symbol":"ipunks","name":"CryptoPunks Fraction Token"},{"id":"crypto-raiders","symbol":"raider","name":"Crypto Raiders"},{"id":"crypto-real-estate","symbol":"cre","name":"Crypto Real Estate"},{"id":"cryptorg-token","symbol":"ctg","name":"Cryptorg"},{"id":"crypto-royale","symbol":"roy","name":"Crypto Royale"},{"id":"cryptosaga","symbol":"saga","name":"CryptoSaga"},{"id":"crypto-sdg","symbol":"sdg","name":"Crypto SDG"},{"id":"cryptoshares","symbol":"shares","name":"Cryptoshares"},{"id":"cryptosnack","symbol":"snack","name":"Crypto Snack"},{"id":"cryptosroom","symbol":"croom","name":"Cryptosroom"},{"id":"cryptostone","symbol":"cps","name":"Cryptostone"},{"id":"crypto-street","symbol":"cst","name":"Crypto Street"},{"id":"crypto-street-v2","symbol":"cstv2","name":"CRYPTO STREET V2"},{"id":"cryptotanks","symbol":"tank","name":"CryptoTanks"},{"id":"cryptotask-2","symbol":"ctask","name":"CryptoTask"},{"id":"cryptotem","symbol":"totem","name":"Cryptotem"},{"id":"crypto-tex","symbol":"ctex","name":"CRYPTO TEX"},{"id":"crypto-threads","symbol":"ct","name":"Crypto Threads"},{"id":"cryptotwitter","symbol":"ct","name":"CryptoTwitter"},{"id":"crypworld","symbol":"cwc","name":"CrypWorld","compliant":true,"market_cap_rank":null,"market_cap_usd":0.070919},{"id":"cube-intelligence","symbol":"auto","name":"Cube Intelligence"},{"id":"cubiex-power","symbol":"cbix-p","name":"Cubiex Power"},{"id":"cubtoken","symbol":"cubt","name":"CubToken"},{"id":"cuckadoodledoo","symbol":"cuck","name":"Cuckadoodledoo"},{"id":"cudos","symbol":"cudos","name":"Cudos"},{"id":"cult-dao","symbol":"cult","name":"Cult DAO"},{"id":"cultiplan","symbol":"ctpl","name":"Cultiplan"},{"id":"cuminu","symbol":"cuminu","name":"Cuminu"},{"id":"cumrocket","symbol":"cummies","name":"CumRocket"},{"id":"curate","symbol":"xcur","name":"Curate"},{"id":"curecoin","symbol":"cure","name":"Curecoin"},{"id":"cure-token-v2","symbol":"cure","name":"CURE V2"},{"id":"curio-governance","symbol":"cgt","name":"Curio Governance"},{"id":"curvance","symbol":"cve","name":"Curvance"},{"id":"curve-dao-token","symbol":"crv","name":"Curve DAO"},{"id":"curve-fi-amdai-amusdc-amusdt","symbol":"am3crv","name":"Curve.fi amDAI/amUSDC/amUSDT"},{"id":"curve-fi-dai-usdc","symbol":"dai+usdc","name":"Curve.fi DAI/USDC"},{"id":"curve-fi-frax-usdc","symbol":"crvfrax","name":"Curve.fi FRAX/USDC"},{"id":"curve-fi-renbtc-wbtc-sbtc","symbol":"crvrenwsbtc","name":"Curve.fi renBTC/wBTC/sBTC"},{"id":"curve-fi-usdc-usdt","symbol":"2crv","name":"Curve.fi USDC/USDT"},{"id":"curve-fi-wbtc-sbtc","symbol":"crvwsbtc","name":"Curve.fi wBTC/sBTC"},{"id":"curve-fi-ydai-yusdc-yusdt-ytusd","symbol":"ycurve","name":"LP-yCurve"},{"id":"curve-inu","symbol":"crvy","name":"Curve Inu"},{"id":"curve-network","symbol":"curve","name":"Curve Network"},{"id":"custodiy","symbol":"cty","name":"CUSTODIY"},{"id":"custom-wallet-bot","symbol":"wallet","name":"Custom Wallet Bot"},{"id":"cut-it-off","symbol":"cut","name":"Cut It Off"},{"id":"cvnx","symbol":"cvnx","name":"CVNX"},{"id":"cvshots","symbol":"cvshot","name":"CVSHOTS","compliant":true,"market_cap_rank":null,"market_cap_usd":0.00026546},{"id":"cyb3rgam3r420","symbol":"gamer","name":"cyb3rgam3r420"},{"id":"cyber-arena","symbol":"cat","name":"Cyber Arena"},{"id":"cyberconnect","symbol":"cyber","name":"CyberConnect"},{"id":"cyber-dao","symbol":"c-dao","name":"Cyber-DAO"},{"id":"cyberdragon-gold","symbol":"gold","name":"CyberDragon Gold"},{"id":"cyberfi","symbol":"cfi","name":"CyberFi"},{"id":"cyberfm","symbol":"cyfm","name":"CyberFM"},{"id":"cyberharbor","symbol":"cht","name":"CyberHarbor"},{"id":"cyberpunk-city","symbol":"cyber","name":"Cyberpunk City"},{"id":"cybertronchain","symbol":"ctc","name":"CyberTronchain"},{"id":"cybervein","symbol":"cvt","name":"CyberVein"},{"id":"cyberyen","symbol":"cy","name":"Cyberyen"},{"id":"cyborg-apes","symbol":"borg","name":"Cyborg Apes"}]}
+{
+    "data": [
+      {
+        "id": "01coin",
+        "symbol": "zoc",
+        "name": "01coin",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aave-ren-v1",
+        "symbol": "aren",
+        "name": "Aave REN v1",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aave-snx",
+        "symbol": "asnx",
+        "name": "Aave SNX",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aave-snx-v1",
+        "symbol": "asnx",
+        "name": "Aave SNX v1",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aave-susd",
+        "symbol": "asusd",
+        "name": "Aave SUSD",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aave-susd-v1",
+        "symbol": "asusd",
+        "name": "Aave SUSD v1",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aave-tusd",
+        "symbol": "atusd",
+        "name": "Aave TUSD",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aave-tusd-v1",
+        "symbol": "atusd",
+        "name": "Aave TUSD v1",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aave-uni",
+        "symbol": "auni",
+        "name": "Aave UNI",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "abey",
+        "symbol": "abey",
+        "name": "Abey",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aboat-token-2",
+        "symbol": "aboat",
+        "name": "Aboat Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "absolute-sync-token",
+        "symbol": "ast",
+        "name": "Absolute Sync",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "abyss-world",
+        "symbol": "awt",
+        "name": "Abyss World",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "acala",
+        "symbol": "aca",
+        "name": "Acala",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "acala-dollar-acala",
+        "symbol": "ausd",
+        "name": "Acala Dollar (Acala)",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "access-protocol",
+        "symbol": "acs",
+        "name": "Access Protocol",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "acent",
+        "symbol": "ace",
+        "name": "Acent",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "ac-milan-fan-token",
+        "symbol": "acm",
+        "name": "AC Milan Fan Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "agenor",
+        "symbol": "age",
+        "name": "Agenor",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "age-of-tanks",
+        "symbol": "a.o.t",
+        "name": "Age Of Tanks",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "alanyaspor-fan-token",
+        "symbol": "ala",
+        "name": "Alanyaspor Fan Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "alliance-fan-token",
+        "symbol": "all",
+        "name": "Alliance Fan Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "alliance-x-trading",
+        "symbol": "axt",
+        "name": "Alliance X Trading",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "ankaragucu-fan-token",
+        "symbol": "anka",
+        "name": "Ankaragücü Fan Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apf-coin",
+        "symbol": "apfc",
+        "name": "APF coin",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "api3",
+        "symbol": "api3",
+        "name": "API3",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apidae",
+        "symbol": "apt",
+        "name": "Apidae",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apiens",
+        "symbol": "apn",
+        "name": "Apiens",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apin-pulse",
+        "symbol": "apc",
+        "name": "Apin Pulse",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apm-coin",
+        "symbol": "apm",
+        "name": "apM Coin",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apollo",
+        "symbol": "apl",
+        "name": "Apollo",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apollo-crypto",
+        "symbol": "apollo",
+        "name": "Apollo Crypto",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apollon-limassol",
+        "symbol": "apl",
+        "name": "Apollon Limassol Fan Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apollo-token",
+        "symbol": "apollo",
+        "name": "Apollo Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apollox-2",
+        "symbol": "apx",
+        "name": "ApolloX",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "appcoins",
+        "symbol": "appc",
+        "name": "AppCoins",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "appics",
+        "symbol": "apx",
+        "name": "Appics",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "appifysite",
+        "symbol": "app",
+        "name": "AppifySite",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apricot",
+        "symbol": "aprt",
+        "name": "Apricot",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "april",
+        "symbol": "april",
+        "name": "April",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "apron",
+        "symbol": "apn",
+        "name": "Apron",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "aston-villa-fan-token",
+        "symbol": "avl",
+        "name": "Aston Villa Fan Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "astral-credits",
+        "symbol": "xac",
+        "name": "Astral Credits",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "atromg8",
+        "symbol": "ag8",
+        "name": "ATROMG8",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "axe-2",
+        "symbol": "axe",
+        "name": "AXE",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "baby-richard-heart",
+        "symbol": "$brich",
+        "name": "Baby Richard Heart",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bellcoin",
+        "symbol": "bell",
+        "name": "Bellcoin",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "beskar",
+        "symbol": "bsk-baa025",
+        "name": "Beskar",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bibi",
+        "symbol": "bibi",
+        "name": "BIBI",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "biblecoin",
+        "symbol": "bibl",
+        "name": "Biblecoin",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "biblepay",
+        "symbol": "bbp",
+        "name": "BiblePay",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bibox-token",
+        "symbol": "bix",
+        "name": "Bibox",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "biconomy",
+        "symbol": "bico",
+        "name": "Biconomy",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "biconomy-exchange-token",
+        "symbol": "bit",
+        "name": "Biconomy Exchange Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bidao",
+        "symbol": "bid",
+        "name": "Bidao",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bidao-smart-chain",
+        "symbol": "bisc",
+        "name": "Bidao Smart Chain",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bidipass",
+        "symbol": "bdp",
+        "name": "BidiPass",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bidshop",
+        "symbol": "bids",
+        "name": "BIDSHOP",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bidz-coin",
+        "symbol": "bidz",
+        "name": "BIDZ Coin",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bifi",
+        "symbol": "bifi",
+        "name": "BiFi",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bigpanda",
+        "symbol": "bigpanda",
+        "name": "BIGPANDA",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "billionhappiness",
+        "symbol": "bhc",
+        "name": "BillionHappiness",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "billy-token",
+        "symbol": "billy",
+        "name": "Billy Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bim",
+        "symbol": "bim",
+        "name": "BIM",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "binamon",
+        "symbol": "bmon",
+        "name": "Binamon",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "birdtoken",
+        "symbol": "birdtoken",
+        "name": "birdToken",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bitcoin-trc20",
+        "symbol": "btct",
+        "name": "Bitcoin TRC20",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bitcoin-vault",
+        "symbol": "btcv",
+        "name": "Bitcoin Vault",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bitcoinx",
+        "symbol": "bcx",
+        "name": "BitcoinX",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bitoreum",
+        "symbol": "btrm",
+        "name": "Bitoreum",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "bologna-fc-fan-token",
+        "symbol": "bfc",
+        "name": "Bologna FC Fan Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "brazil-fan-token",
+        "symbol": "bft",
+        "name": "Brazil National Football Team Fan Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "btf",
+        "symbol": "btf",
+        "name": "Bitcoin Faith",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "candy-pocket",
+        "symbol": "candy",
+        "name": "Candy Pocket",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "canto-inu",
+        "symbol": "cinu",
+        "name": "Canto Inu",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "canto-shib",
+        "symbol": "cshib",
+        "name": "Canto Shib",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "cashcats",
+        "symbol": "$cats",
+        "name": "CashCats",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "charity-alfa",
+        "symbol": "mich",
+        "name": "Charity Alfa",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "chop",
+        "symbol": "chop",
+        "name": "CHOP",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "club-atletico-independiente",
+        "symbol": "cai",
+        "name": "Club Atletico Independiente Fan Token",
+        "compliant": true,
+        "market_cap_rank": null
+      },
+      {
+        "id": "core-id",
+        "symbol": "cid",
+        "name": "CORE ID",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": 0.00191574
+      },
+      {
+        "id": "cream",
+        "symbol": "crm",
+        "name": "Creamcoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": 0.0004297
+      },
+      {
+        "id": "crisp-scored-cookstoves",
+        "symbol": "crisp-c",
+        "name": "CRISP Scored Cookstoves",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "crisp-scored-mangroves",
+        "symbol": "crisp-m",
+        "name": "CRISP Scored Mangroves",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "croatian-ff-fan-token",
+        "symbol": "vatreni",
+        "name": "Croatian FF Fan Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "crocbot",
+        "symbol": "croc",
+        "name": "CrocBot",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "crodex",
+        "symbol": "crx",
+        "name": "Crodex",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "crogecoin",
+        "symbol": "croge",
+        "name": "Crogecoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "croissant-games",
+        "symbol": "croissant",
+        "name": "Croissant Games",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "croking",
+        "symbol": "crk",
+        "name": "Croking",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "crolon-mars",
+        "symbol": "clmrs",
+        "name": "Crolon Mars",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "cronos-id",
+        "symbol": "croid",
+        "name": "Cronos ID",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "cronosphere",
+        "symbol": "sphere",
+        "name": "Cronosphere",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "cronosverse",
+        "symbol": "vrse",
+        "name": "CronosVerse",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "cropbytes",
+        "symbol": "cbx",
+        "name": "CropBytes",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "cross-chain-bridge",
+        "symbol": "bridge",
+        "name": "Cross-Chain Bridge",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "crosschain-iotx",
+        "symbol": "ciotx",
+        "name": "Crosschain IOTX",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "crossdex",
+        "symbol": "cdx",
+        "name": "CrossDEX",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "crossfi",
+        "symbol": "crfi",
+        "name": "CrossFi",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "ikke funnet"
+      },
+      {
+        "id": "crypworld",
+        "symbol": "cwc",
+        "name": "CrypWorld",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": 0.070919
+      },
+      {
+        "id": "cvshots",
+        "symbol": "cvshot",
+        "name": "CVSHOTS",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": 0.00026546
+      },
+      {
+        "id": "decentral-games-ice",
+        "symbol": "ice",
+        "name": "Decentral Games ICE",
+        "compliant": true,
+        "market_cap_rank": 1835,
+        "market_cap_usd": "0.00298734 USD"
+      },
+      {
+        "id": "decred-next",
+        "symbol": "dcrn",
+        "name": "Decred-Next",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.070554 USD"
+      },
+      {
+        "id": "denizlispor-fan-token",
+        "symbol": "dnz",
+        "name": "Denizlispor Fan Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00245942 USD"
+      },
+      {
+        "id": "deracoin",
+        "symbol": "drc",
+        "name": "Deracoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00179517 USD"
+      },
+      {
+        "id": "dextro",
+        "symbol": "dxo",
+        "name": "Dextro",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00039557 USD"
+      },
+      {
+        "id": "dinamo-zagreb-fan-token",
+        "symbol": "dzg",
+        "name": "Dinamo Zagreb Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2359,
+        "market_cap_usd": "0.471414 USD"
+      },
+      {
+        "id": "dock",
+        "symbol": "dock",
+        "name": "Dock",
+        "compliant": true,
+        "market_cap_rank": 312,
+        "market_cap_usd": "0.01528844 USD"
+      },
+      {
+        "id": "documentchain",
+        "symbol": "dms",
+        "name": "Documentchain",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00593063 USD"
+      },
+      {
+        "id": "dogelon-classic",
+        "symbol": "elonc",
+        "name": "Dogelon Classic",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.6458e-11 USD"
+      },
+      {
+        "id": "doge-token",
+        "symbol": "doget",
+        "name": "Doge Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00029374 USD"
+      },
+      {
+        "id": "dominica-coin",
+        "symbol": "dmc",
+        "name": "Dominica Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "dreamscoin",
+        "symbol": "dream",
+        "name": "DreamsCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.93e-06 USD"
+      },
+      {
+        "id": "echosoracoin",
+        "symbol": "esrc",
+        "name": "EchoSoraCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00239675 USD"
+      },
+      {
+        "id": "effect-network",
+        "symbol": "efx",
+        "name": "Effect Network",
+        "compliant": true,
+        "market_cap_rank": 2218,
+        "market_cap_usd": "0.00276268 USD"
+      },
+      {
+        "id": "egg-n-partners",
+        "symbol": "eggt",
+        "name": "Egg N Partners",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.641522 USD"
+      },
+      {
+        "id": "endpoint-cex-fan-token",
+        "symbol": "endcex",
+        "name": "Endpoint Cex Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2247,
+        "market_cap_usd": "0.214673 USD"
+      },
+      {
+        "id": "eos-pow-coin",
+        "symbol": "pow",
+        "name": "EOS PoW Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00168087 USD"
+      },
+      {
+        "id": "eskisehir-fan-token",
+        "symbol": "eses",
+        "name": "Eskişehir Fan Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00538626 USD"
+      },
+      {
+        "id": "ethereumx",
+        "symbol": "etx",
+        "name": "EthereumX",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00159767 USD"
+      },
+      {
+        "id": "expanse",
+        "symbol": "exp",
+        "name": "Expanse",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00225348 USD"
+      },
+      {
+        "id": "flamengo-fan-token",
+        "symbol": "mengo",
+        "name": "Flamengo Fan Token",
+        "compliant": true,
+        "market_cap_rank": 1003,
+        "market_cap_usd": "0.444738 USD"
+      },
+      {
+        "id": "fofo-token",
+        "symbol": "fofo",
+        "name": "FOFO Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "3.481e-09 USD"
+      },
+      {
+        "id": "ftx-users-debt",
+        "symbol": "fud",
+        "name": "FTX Users' Debt",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "10.14 USD"
+      },
+      {
+        "id": "galaxycoin",
+        "symbol": "galaxy",
+        "name": "GalaxyCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.14e-09 USD"
+      },
+      {
+        "id": "gcn-coin",
+        "symbol": "gcn",
+        "name": "GCN Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.26968e-07 USD"
+      },
+      {
+        "id": "genix",
+        "symbol": "genix",
+        "name": "Genix",
+        "compliant": true,
+        "market_cap_rank": 3208,
+        "market_cap_usd": "0.00045094 USD"
+      },
+      {
+        "id": "geocoin",
+        "symbol": "geo",
+        "name": "Geocoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00797888 USD"
+      },
+      {
+        "id": "glitzkoin",
+        "symbol": "gtn",
+        "name": "GlitzKoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.050047 USD"
+      },
+      {
+        "id": "global-fan-token",
+        "symbol": "glft",
+        "name": "Global Fan Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "3.69e-05 USD"
+      },
+      {
+        "id": "global-trading-xenocurren",
+        "symbol": "gtx",
+        "name": "Global Trading Xenocurrency",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00057219 USD"
+      },
+      {
+        "id": "glouki",
+        "symbol": "glk",
+        "name": "Glouki",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "9.99e-05 USD"
+      },
+      {
+        "id": "goldkash",
+        "symbol": "xgk",
+        "name": "GoldKash",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.29711e-07 USD"
+      },
+      {
+        "id": "good-morning",
+        "symbol": "gm",
+        "name": "Good Morning [OLD]",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "131.92 USD"
+      },
+      {
+        "id": "halcyon",
+        "symbol": "hal",
+        "name": "Halcyon",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00180554 USD"
+      },
+      {
+        "id": "haven1",
+        "symbol": "h1",
+        "name": "Haven1",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "helpico",
+        "symbol": "help",
+        "name": "Helpico",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.02386174 USD"
+      },
+      {
+        "id": "hempcoin-thc",
+        "symbol": "thc",
+        "name": "Hempcoin",
+        "compliant": true,
+        "market_cap_rank": 2250,
+        "market_cap_usd": "0.00199298 USD"
+      },
+      {
+        "id": "herum",
+        "symbol": "ram",
+        "name": "Herum",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.971e-05 USD"
+      },
+      {
+        "id": "hex-orange-address",
+        "symbol": "hoa",
+        "name": "Hex Orange Address",
+        "compliant": true,
+        "market_cap_rank": 1890,
+        "market_cap_usd": "0.00713984 USD"
+      },
+      {
+        "id": "hondaiscoin",
+        "symbol": "hndc",
+        "name": "HondaisCoin",
+        "compliant": true,
+        "market_cap_rank": 3223,
+        "market_cap_usd": "9.20298e-07 USD"
+      },
+      {
+        "id": "horuspay",
+        "symbol": "horus",
+        "name": "HorusPay",
+        "compliant": true,
+        "market_cap_rank": 3443,
+        "market_cap_usd": "1.73e-05 USD"
+      },
+      {
+        "id": "huebel-bolt",
+        "symbol": "bolt",
+        "name": "Huebel Bolt",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.051898 USD"
+      },
+      {
+        "id": "hush",
+        "symbol": "hush",
+        "name": "Hush",
+        "compliant": true,
+        "market_cap_rank": 2452,
+        "market_cap_usd": "0.02486382 USD"
+      },
+      {
+        "id": "icomex",
+        "symbol": "icmx",
+        "name": "iCOMEX",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.090041 USD"
+      },
+      {
+        "id": "imagecoin",
+        "symbol": "img",
+        "name": "ImageCoin",
+        "compliant": true,
+        "market_cap_rank": 3537,
+        "market_cap_usd": "0.00044903 USD"
+      },
+      {
+        "id": "inci-token",
+        "symbol": "inci",
+        "name": "Inci",
+        "compliant": true,
+        "market_cap_rank": 3289,
+        "market_cap_usd": "0.00108508 USD"
+      },
+      {
+        "id": "income-island",
+        "symbol": "income",
+        "name": "Income Island",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "ink",
+        "symbol": "ink",
+        "name": "Ink",
+        "compliant": true,
+        "market_cap_rank": 2807,
+        "market_cap_usd": "0.00033986 USD"
+      },
+      {
+        "id": "istanbul-basaksehir-fan-token",
+        "symbol": "ibfk",
+        "name": "İstanbul Başakşehir Fan Token",
+        "compliant": true,
+        "market_cap_rank": 1897,
+        "market_cap_usd": "0.946894 USD"
+      },
+      {
+        "id": "karsiyaka-taraftar-token",
+        "symbol": "ksk",
+        "name": "Karşıyaka Taraftar Fan Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.0178729 USD"
+      },
+      {
+        "id": "kemacoin",
+        "symbol": "kema",
+        "name": "KemaCoin",
+        "compliant": true,
+        "market_cap_rank": 3329,
+        "market_cap_usd": "0.00059493 USD"
+      },
+      {
+        "id": "kenka-metaverse",
+        "symbol": "kenka",
+        "name": "KENKA METAVERSE",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.97128e-07 USD"
+      },
+      {
+        "id": "kintsugi-btc",
+        "symbol": "kbtc",
+        "name": "Kintsugi BTC",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "30452 USD"
+      },
+      {
+        "id": "levante-ud-fan-token",
+        "symbol": "lev",
+        "name": "Levante U.D. Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2420,
+        "market_cap_usd": "0.363881 USD"
+      },
+      {
+        "id": "lichang",
+        "symbol": "lc",
+        "name": "Lichang",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.97e-06 USD"
+      },
+      {
+        "id": "lightning-bitcoin",
+        "symbol": "lbtc",
+        "name": "Lightning Bitcoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lightning-bot",
+        "symbol": "light",
+        "name": "Lightning Bot",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lightning-protocol",
+        "symbol": "light",
+        "name": "Lightning Protocol",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "light-token",
+        "symbol": "lt",
+        "name": "Hope.money LightDAO",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lightyears",
+        "symbol": "year",
+        "name": "Lightyears",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "linkpool",
+        "symbol": "lpl",
+        "name": "LinkPool",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "links",
+        "symbol": "links",
+        "name": "Links",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "link-yvault",
+        "symbol": "yvlink",
+        "name": "LINK yVault",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "linq",
+        "symbol": "linq",
+        "name": "Linq",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lint",
+        "symbol": "lint",
+        "name": "Lint",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lionceo",
+        "symbol": "lceo",
+        "name": "LionCEO",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lion-dao",
+        "symbol": "roar",
+        "name": "Lion DAO",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "liondex",
+        "symbol": "lion",
+        "name": "LionDEX",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lion-fai",
+        "symbol": "lionf",
+        "name": "Lion Fai",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lion-scrub-money-2",
+        "symbol": "lion",
+        "name": "Lion Scrub Money",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lion-token",
+        "symbol": "lion",
+        "name": "Lion",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "liq-protocol",
+        "symbol": "liq",
+        "name": "LIQ Protocol",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "lite",
+        "symbol": "lite",
+        "name": "LITE",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00497122 USD"
+      },
+      {
+        "id": "litecoin-plus",
+        "symbol": "spb",
+        "name": "SpiderByte",
+        "compliant": true,
+        "market_cap_rank": 3486,
+        "market_cap_usd": "0.00396556 USD"
+      },
+      {
+        "id": "lumi-credits",
+        "symbol": "lumi",
+        "name": "LUMI Credits",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00792647 USD"
+      },
+      {
+        "id": "mass",
+        "symbol": "mass",
+        "name": "MASS",
+        "compliant": true,
+        "market_cap_rank": 2494,
+        "market_cap_usd": "0.00321332 USD"
+      },
+      {
+        "id": "mei-flex",
+        "symbol": "mf",
+        "name": "Mei Flex",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.146091 USD"
+      },
+      {
+        "id": "meme-shib",
+        "symbol": "ms",
+        "name": "Meme Shib",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.5623e-11 USD"
+      },
+      {
+        "id": "memetic",
+        "symbol": "meme",
+        "name": "Memetic",
+        "compliant": true,
+        "market_cap_rank": 1888,
+        "market_cap_usd": "0.02579442 USD"
+      },
+      {
+        "id": "meta-mine",
+        "symbol": "mtmn",
+        "name": "META MINE",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00267647 USD"
+      },
+      {
+        "id": "metanyx",
+        "symbol": "metx",
+        "name": "Metanyx",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00014823 USD"
+      },
+      {
+        "id": "mobilecoin",
+        "symbol": "mob",
+        "name": "MobileCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.47679 USD"
+      },
+      {
+        "id": "moola-celo-atoken",
+        "symbol": "mcelo",
+        "name": "Moola CELO AToken",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "moonbeans",
+        "symbol": "beans",
+        "name": "MoonBeans",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.129606 USD"
+      },
+      {
+        "id": "mx-token-2",
+        "symbol": "mxt",
+        "name": "MX TOKEN",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "6.762e-05 USD"
+      },
+      {
+        "id": "myntpay",
+        "symbol": "mynt",
+        "name": "MyntPay",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "nasdacoin",
+        "symbol": "nsd",
+        "name": "Nasdacoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.0007966 USD"
+      },
+      {
+        "id": "natus-vincere-fan-token",
+        "symbol": "navi",
+        "name": "Natus Vincere Fan Token",
+        "compliant": true,
+        "market_cap_rank": 1987,
+        "market_cap_usd": "0.280656 USD"
+      },
+      {
+        "id": "nexalt",
+        "symbol": "xlt",
+        "name": "Nexalt",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00388508 USD"
+      },
+      {
+        "id": "novara-calcio-fan-token",
+        "symbol": "nov",
+        "name": "Novara Calcio Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2851,
+        "market_cap_usd": "0.338089 USD"
+      },
+      {
+        "id": "oec-bch",
+        "symbol": "bchk",
+        "name": "OEC BCH",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "246.04 USD"
+      },
+      {
+        "id": "oec-binance-coin",
+        "symbol": "bnb",
+        "name": "OEC Binance Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "189.47 USD"
+      },
+      {
+        "id": "oec-btc",
+        "symbol": "btck",
+        "name": "OEC BTC",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "29713 USD"
+      },
+      {
+        "id": "oec-dai",
+        "symbol": "daik",
+        "name": "OEC DAI",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.994461 USD"
+      },
+      {
+        "id": "oec-dot",
+        "symbol": "dotk",
+        "name": "OEC DOT",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "3.88 USD"
+      },
+      {
+        "id": "oec-etc",
+        "symbol": "etck",
+        "name": "OEC ETC",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "16.34 USD"
+      },
+      {
+        "id": "oec-eth",
+        "symbol": "ethk",
+        "name": "OEC ETH",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1624.62 USD"
+      },
+      {
+        "id": "oec-fil",
+        "symbol": "filk",
+        "name": "OEC FIL",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "3.33 USD"
+      },
+      {
+        "id": "oec-ltc",
+        "symbol": "ltck",
+        "name": "OEC LTC",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "67.71 USD"
+      },
+      {
+        "id": "oec-shib",
+        "symbol": "shibk",
+        "name": "OEC SHIB",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "7.1e-06 USD"
+      },
+      {
+        "id": "oec-tron",
+        "symbol": "trxk",
+        "name": "OEC Tron",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.090114 USD"
+      },
+      {
+        "id": "oec-uni",
+        "symbol": "unik",
+        "name": "OEC UNI",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "4.73 USD"
+      },
+      {
+        "id": "ombre",
+        "symbol": "omb",
+        "name": "Ombre",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.819e-05 USD"
+      },
+      {
+        "id": "omotenashicoin",
+        "symbol": "mtns",
+        "name": "OmotenashiCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00014171 USD"
+      },
+      {
+        "id": "opalcoin",
+        "symbol": "auop",
+        "name": "Opalcoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.992e-05 USD"
+      },
+      {
+        "id": "oraclechain",
+        "symbol": "oct",
+        "name": "OracleChain",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00845779 USD"
+      },
+      {
+        "id": "paybandcoin",
+        "symbol": "pybc",
+        "name": "PaybandCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.759e-05 USD"
+      },
+      {
+        "id": "pepe-on-pulsechain",
+        "symbol": "pepe",
+        "name": "PEPE on PulseChain",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "3.73494e-10 USD"
+      },
+      {
+        "id": "peseta-digital",
+        "symbol": "ptd",
+        "name": "Peseta Digital",
+        "compliant": true,
+        "market_cap_rank": 3562,
+        "market_cap_usd": "2.692e-05 USD"
+      },
+      {
+        "id": "pgala",
+        "symbol": "pgala",
+        "name": "pGALA",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00069275 USD"
+      },
+      {
+        "id": "phux-governance-token",
+        "symbol": "phux",
+        "name": "PHUX Governance Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00535037 USD"
+      },
+      {
+        "id": "pixie",
+        "symbol": "pix",
+        "name": "Pixie",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00020233 USD"
+      },
+      {
+        "id": "plaza-dao",
+        "symbol": "plaz",
+        "name": "Plaza DAO",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "3.974e-05 USD"
+      },
+      {
+        "id": "pollux-coin",
+        "symbol": "pox",
+        "name": "Pollux Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.661825 USD"
+      },
+      {
+        "id": "portugal-national-team-fan-token",
+        "symbol": "por",
+        "name": "Portugal National Team Fan Token",
+        "compliant": true,
+        "market_cap_rank": 1380,
+        "market_cap_usd": "0.956524 USD"
+      },
+      {
+        "id": "primecoin",
+        "symbol": "xpm",
+        "name": "Primecoin",
+        "compliant": true,
+        "market_cap_rank": 2106,
+        "market_cap_usd": "0.02668274 USD"
+      },
+      {
+        "id": "proof-of-gorila",
+        "symbol": "pog",
+        "name": "Proof Of Gorila",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "pulse-inu",
+        "symbol": "pinu",
+        "name": "Pulse Inu",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "9.551e-09 USD"
+      },
+      {
+        "id": "quack",
+        "symbol": "quack",
+        "name": "QUACK",
+        "compliant": true,
+        "market_cap_rank": 3593,
+        "market_cap_usd": "5.95535e-07 USD"
+      },
+      {
+        "id": "quebecoin",
+        "symbol": "qbc",
+        "name": "Quebecoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00072302 USD"
+      },
+      {
+        "id": "quorum",
+        "symbol": "rum",
+        "name": "Quorum",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.0 USD"
+      },
+      {
+        "id": "rebase-base",
+        "symbol": "rebase",
+        "name": "Rebase",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "rebasechain",
+        "symbol": "base",
+        "name": "ReBaseChain",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "rebasing-tbt",
+        "symbol": "tbt",
+        "name": "Rebasing TBT",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "rebel-bots",
+        "symbol": "rbls",
+        "name": "Rebel Bots",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "reboot",
+        "symbol": "gg",
+        "name": "Reboot",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "rebus",
+        "symbol": "rebus",
+        "name": "Rebus",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "recast1",
+        "symbol": "r1",
+        "name": "Recast1",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "recharge",
+        "symbol": "rcg",
+        "name": "Recharge",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "recoverydao",
+        "symbol": "rec",
+        "name": "RecoveryDAO",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "recovery-right-token",
+        "symbol": "rrt",
+        "name": "Recovery Right",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "recovery-value-usd",
+        "symbol": "rvusd",
+        "name": "Recovery Value USD",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "recycle-impact-world-association",
+        "symbol": "riwa",
+        "name": "Recycle Impact World Association",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "recycle-x",
+        "symbol": "rcx",
+        "name": "Recycle-X",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "recycling-ai",
+        "symbol": "cycai",
+        "name": "RECYCLING AI",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "red",
+        "symbol": "red",
+        "name": "Red",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "redacted",
+        "symbol": "btrfly",
+        "name": "Redacted",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "redancoin",
+        "symbol": "redan",
+        "name": "REDANCOIN",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "rif-token",
+        "symbol": "rif",
+        "name": "RSK Infrastructure Framework",
+        "compliant": true,
+        "market_cap_rank": 244,
+        "market_cap_usd": "0.096522 USD"
+      },
+      {
+        "id": "ror-universe",
+        "symbol": "ror",
+        "name": "ROR Universe",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00103547 USD"
+      },
+      {
+        "id": "roush-fenway-racing-fan-token",
+        "symbol": "roush",
+        "name": "Roush Fenway Racing Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2248,
+        "market_cap_usd": "0.668338 USD"
+      },
+      {
+        "id": "san-diego-coin",
+        "symbol": "sand",
+        "name": "San Diego Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00085123 USD"
+      },
+      {
+        "id": "scopecoin",
+        "symbol": "xscp",
+        "name": "ScopeCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00016697 USD"
+      },
+      {
+        "id": "secure-cash",
+        "symbol": "scsx",
+        "name": "Secure Cash",
+        "compliant": true,
+        "market_cap_rank": 3595,
+        "market_cap_usd": "0.00512223 USD"
+      },
+      {
+        "id": "silvercashs",
+        "symbol": "svc",
+        "name": "Silvercashs",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.87e-06 USD"
+      },
+      {
+        "id": "sint-truidense-voetbalvereniging-fan-token",
+        "symbol": "stv",
+        "name": "Sint-Truidense Voetbalvereniging Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2698,
+        "market_cap_usd": "0.689091 USD"
+      },
+      {
+        "id": "smileycoin",
+        "symbol": "smly",
+        "name": "Smileycoin",
+        "compliant": true,
+        "market_cap_rank": 2374,
+        "market_cap_usd": "1.124e-05 USD"
+      },
+      {
+        "id": "sorachancoin",
+        "symbol": "sora",
+        "name": "SorachanCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.02532974 USD"
+      },
+      {
+        "id": "spain-national-fan-token",
+        "symbol": "snft",
+        "name": "Spain National Football Team Fan Token",
+        "compliant": true,
+        "market_cap_rank": 1950,
+        "market_cap_usd": "0.04236762 USD"
+      },
+      {
+        "id": "sphere",
+        "symbol": "sphr",
+        "name": "Sphere",
+        "compliant": true,
+        "market_cap_rank": 3009,
+        "market_cap_usd": "0.00739764 USD"
+      },
+      {
+        "id": "staked-aave-balancer-pool-token",
+        "symbol": "stkabpt",
+        "name": "Staked Aave Balancer Pool Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-acme",
+        "symbol": "stacme",
+        "name": "Staked ACME",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-ageur",
+        "symbol": "steur",
+        "name": "Staked agEUR",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "stake-dao",
+        "symbol": "sdt",
+        "name": "Stake DAO",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "stake-dao-crv",
+        "symbol": "sdcrv",
+        "name": "Stake DAO CRV",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-aurora",
+        "symbol": "staur",
+        "name": "Staked Aurora",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-core",
+        "symbol": "score",
+        "name": "Staked CORE",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-ether",
+        "symbol": "steth",
+        "name": "Lido Staked Ether",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-ethos-reserve-note",
+        "symbol": "stern",
+        "name": "Staked Ethos Reserve Note",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-frax-ether",
+        "symbol": "sfrxeth",
+        "name": "Staked Frax Ether",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-fx",
+        "symbol": "stfx",
+        "name": "Staked FX",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-hope",
+        "symbol": "sthope",
+        "name": "Staked HOPE",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-kcs",
+        "symbol": "skcs",
+        "name": "Staked KCS",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-near",
+        "symbol": "stnear",
+        "name": "Staked NEAR",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-tarot",
+        "symbol": "xtarot",
+        "name": "Staked TAROT",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-tlos",
+        "symbol": "stlos",
+        "name": "Staked TLOS",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "staked-trx",
+        "symbol": "strx",
+        "name": "Staked TRX",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "starlink-program",
+        "symbol": "slk",
+        "name": "Starlink Program",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00186444 USD"
+      },
+      {
+        "id": "supercells",
+        "symbol": "sct",
+        "name": "SuperCells",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.110072 USD"
+      },
+      {
+        "id": "superciety",
+        "symbol": "super",
+        "name": "PeerMe SUPER",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.01570178 USD"
+      },
+      {
+        "id": "sweply",
+        "symbol": "swply",
+        "name": "Sweply",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "synergy-diamonds",
+        "symbol": "dia",
+        "name": "Synergy Diamonds",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "synergy-land-token",
+        "symbol": "sng",
+        "name": "Synergy Land Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "synesis-one",
+        "symbol": "sns",
+        "name": "Synesis One",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "synex-coin",
+        "symbol": "minecraft",
+        "name": "Synex Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "synopti",
+        "symbol": "synopti",
+        "name": "Synopti",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "synthetic-usd",
+        "symbol": "xusd",
+        "name": "Synthetic USD",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "synthetify-token",
+        "symbol": "sny",
+        "name": "Synthetify",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "synth-ousd",
+        "symbol": "ousd",
+        "name": "Synth oUSD",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "sypool",
+        "symbol": "syp",
+        "name": "Sypool",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "syscoin",
+        "symbol": "sys",
+        "name": "Syscoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "szab",
+        "symbol": "szab",
+        "name": "SZAB",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "t23",
+        "symbol": "t23",
+        "name": "T23",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "t3rn",
+        "symbol": "trn",
+        "name": "t3rn",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tabank",
+        "symbol": "tab",
+        "name": "Tabank",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tabbypos",
+        "symbol": "epos",
+        "name": "TabbyPOS",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "taboo-token",
+        "symbol": "taboo",
+        "name": "Taboo",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tabtrader",
+        "symbol": "ttt",
+        "name": "TabTrader",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "team-heretics-fan-token",
+        "symbol": "th",
+        "name": "Team Heretics Fan Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.40537 USD"
+      },
+      {
+        "id": "timtim-games",
+        "symbol": "tim",
+        "name": "TIMTIM GAMES",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.61e-06 USD"
+      },
+      {
+        "id": "title-network",
+        "symbol": "tnet",
+        "name": "Bitcoin Clashic",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00209969 USD"
+      },
+      {
+        "id": "tokenlon",
+        "symbol": "lon",
+        "name": "Tokenlon",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tokenomy",
+        "symbol": "ten",
+        "name": "Tokenomy",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tokenplace",
+        "symbol": "tok",
+        "name": "Tokenplace",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "token-pocket",
+        "symbol": "tpt",
+        "name": "TokenPocket Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tokhit",
+        "symbol": "hitt",
+        "name": "TOKHIT",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "toko",
+        "symbol": "toko",
+        "name": "Tokoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tokocrypto",
+        "symbol": "tko",
+        "name": "Tokocrypto",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tokpie",
+        "symbol": "tkp",
+        "name": "TOKPIE",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "toku",
+        "symbol": "toku",
+        "name": "Toku",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tokyo",
+        "symbol": "tokc",
+        "name": "Tokyo Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tokyo-au",
+        "symbol": "tokau",
+        "name": "Tokyo AU",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tolar",
+        "symbol": "tol",
+        "name": "Tolar",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "toman-coin",
+        "symbol": "tmc",
+        "name": "Toman Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tomato-coin",
+        "symbol": "bptc",
+        "name": "Tomato Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tomb",
+        "symbol": "tomb",
+        "name": "Tomb",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tomb-shares",
+        "symbol": "tshare",
+        "name": "Tomb Shares",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tom-coin",
+        "symbol": "tmc",
+        "name": "Tom Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "tonex",
+        "symbol": "tnx",
+        "name": "Tonex",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.03910215 USD"
+      },
+      {
+        "id": "trabzonspor-fan-token",
+        "symbol": "tra",
+        "name": "Trabzonspor Fan Token",
+        "compliant": true,
+        "market_cap_rank": 1012,
+        "market_cap_usd": "0.965551 USD"
+      },
+      {
+        "id": "trolite",
+        "symbol": "trl",
+        "name": "Trolite",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00299795 USD"
+      },
+      {
+        "id": "tronbetlive",
+        "symbol": "live",
+        "name": "TRONbetLive",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.01389798 USD"
+      },
+      {
+        "id": "troneuroperewardcoin",
+        "symbol": "terc",
+        "name": "TronEuropeRewardCoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00130067 USD"
+      },
+      {
+        "id": "troy",
+        "symbol": "troy",
+        "name": "TROY",
+        "compliant": true,
+        "market_cap_rank": 617,
+        "market_cap_usd": "0.00227009 USD"
+      },
+      {
+        "id": "turkiye-basketbol-federasyonu-token",
+        "symbol": "tbft",
+        "name": "Türkiye Basketbol Federasyonu Fan Token",
+        "compliant": true,
+        "market_cap_rank": 2983,
+        "market_cap_usd": "0.01040512 USD"
+      },
+      {
+        "id": "turkiye-motosiklet-federasyonu-fan-token",
+        "symbol": "tmft",
+        "name": "Türkiye Motosiklet Federasyonu Fan Token",
+        "compliant": true,
+        "market_cap_rank": 3320,
+        "market_cap_usd": "0.00089 USD"
+      },
+      {
+        "id": "ufc-fan-token",
+        "symbol": "ufc",
+        "name": "UFC Fan Token",
+        "compliant": true,
+        "market_cap_rank": 892,
+        "market_cap_usd": "0.92146 USD"
+      },
+      {
+        "id": "umbra-network",
+        "symbol": "umbr",
+        "name": "Umbria Network",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "unobtanium",
+        "symbol": "uno",
+        "name": "Unobtanium",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "3.67 USD"
+      },
+      {
+        "id": "usdjpm",
+        "symbol": "jpm",
+        "name": "USDJPM",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.359791 USD"
+      },
+      {
+        "id": "utility-ape",
+        "symbol": "$banana",
+        "name": "Utility Ape",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "utility-meta-token",
+        "symbol": "umt",
+        "name": "Utility Meta Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "utility-net",
+        "symbol": "unc",
+        "name": "Utility Net",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "utility-web3shot",
+        "symbol": "uw3s",
+        "name": "Utility Web3Shot",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "utopia",
+        "symbol": "crp",
+        "name": "Crypton",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vanilla-2",
+        "symbol": "bum",
+        "name": "Vanilla",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vanilla-network",
+        "symbol": "vnla",
+        "name": "Vanilla Network",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vanity",
+        "symbol": "vny",
+        "name": "Vanity",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vankia-chain",
+        "symbol": "vkt",
+        "name": "Vankia Chain",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vaporfi",
+        "symbol": "vape",
+        "name": "VaporFi",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vaporum-coin",
+        "symbol": "vprm",
+        "name": "Vaporum Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vaporwave",
+        "symbol": "vwave",
+        "name": "Vaporwave",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vara-network",
+        "symbol": "vara",
+        "name": "Vara Network",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "varen",
+        "symbol": "vrn",
+        "name": "Varen",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vasco-da-gama-fan-token",
+        "symbol": "vasco",
+        "name": "Vasco da Gama Fan Token",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vaulteum",
+        "symbol": "vault",
+        "name": "Vaulteum",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vault-hill-city",
+        "symbol": "vhc",
+        "name": "Vault Hill City",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "veco",
+        "symbol": "veco",
+        "name": "Veco",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00011998 USD"
+      },
+      {
+        "id": "venus-reward-token",
+        "symbol": "vrt",
+        "name": "Venus Reward",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "venus-sxp",
+        "symbol": "vsxp",
+        "name": "Venus SXP",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "venus-usdc",
+        "symbol": "vusdc",
+        "name": "Venus USDC",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "venus-usdt",
+        "symbol": "vusdt",
+        "name": "Venus USDT",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "venus-xrp",
+        "symbol": "vxrp",
+        "name": "Venus XRP",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "venus-xvs",
+        "symbol": "vxvs",
+        "name": "Venus XVS",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vera",
+        "symbol": "vera",
+        "name": "Vera",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "veraone",
+        "symbol": "vro",
+        "name": "VeraOne",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "verasity",
+        "symbol": "vra",
+        "name": "Verasity",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "verge",
+        "symbol": "xvg",
+        "name": "Verge",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "veriblock",
+        "symbol": "vbk",
+        "name": "VeriBlock",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "veritaseum",
+        "symbol": "veri",
+        "name": "Veritaseum",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "veritise",
+        "symbol": "vts",
+        "name": "Veritise",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "verox",
+        "symbol": "vrx",
+        "name": "Verox",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "versagames",
+        "symbol": "versa",
+        "name": "VersaGames",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "versailles-heroes",
+        "symbol": "vrh",
+        "name": "Versailles Heroes",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "verse-bitcoin",
+        "symbol": "verse",
+        "name": "Verse",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "vibing",
+        "symbol": "vbg",
+        "name": "Vibing",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.239251 USD"
+      },
+      {
+        "id": "vip-coin",
+        "symbol": "vip",
+        "name": "Vip Coin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00359235 USD"
+      },
+      {
+        "id": "virtual-ride-token",
+        "symbol": "vrt",
+        "name": "Virtual Ride Token",
+        "compliant": true,
+        "market_cap_rank": 3029,
+        "market_cap_usd": "0.00523574 USD"
+      },
+      {
+        "id": "vitalxp",
+        "symbol": "vital",
+        "name": "VitalXP",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "None EUR"
+      },
+      {
+        "id": "volentix-vtx",
+        "symbol": "vtx",
+        "name": "Volentix",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00110111 USD"
+      },
+      {
+        "id": "we-all-got-mantle-illness",
+        "symbol": "wagmi",
+        "name": "We All Got Mantle Illness",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "2.0546e-11 USD"
+      },
+      {
+        "id": "wfca",
+        "symbol": "wfca",
+        "name": "WFCA",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.40301 USD"
+      },
+      {
+        "id": "wrapped-bones",
+        "symbol": "wbones",
+        "name": "Wrapped BONES",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.716219 USD"
+      },
+      {
+        "id": "wrapped-btc-trustless-bridge",
+        "symbol": "wbtc",
+        "name": "Wrapped BTC (Trustless Bridge)",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "19805.88 USD"
+      },
+      {
+        "id": "wrapped-eth-trustless-bridge",
+        "symbol": "weth",
+        "name": "Wrapped ETH (Trustless Bridge)",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1610.0 USD"
+      },
+      {
+        "id": "wrapped-ethw",
+        "symbol": "wethw",
+        "name": "Wrapped ETHW",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "1.25 USD"
+      },
+      {
+        "id": "wrapped-okt",
+        "symbol": "wokt",
+        "name": "Wrapped OKT",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "11.33 USD"
+      },
+      {
+        "id": "wrapped-velas",
+        "symbol": "wvlx",
+        "name": "Wrapped Velas",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.00691644 USD"
+      },
+      {
+        "id": "xactrewards",
+        "symbol": "xact",
+        "name": "XActRewards",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.257013 USD"
+      },
+      {
+        "id": "xenbitcoin",
+        "symbol": "xbtc",
+        "name": "XenBitcoin",
+        "compliant": true,
+        "market_cap_rank": null,
+        "market_cap_usd": "0.391395 USD"
+      }
+    ]
+  }
