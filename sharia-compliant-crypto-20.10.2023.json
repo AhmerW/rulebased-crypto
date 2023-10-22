@@ -1,14 +1,6 @@
 {
     "data": [
       {
-        "id": "rif-token",
-        "symbol": "rif",
-        "name": "RSK Infrastructure Framework",
-        "compliant": true,
-        "market_cap_rank": 243,
-        "market_cap_usd": "0.095575 USD"
-      },
-      {
         "id": "dock",
         "symbol": "dock",
         "name": "Dock",
